@@ -1,0 +1,301 @@
+\documentclass[letterpaper, 12pt, oneside]{book}
+% \documentclass[letterpaper, 12pt]{book}
+
+% 1" margins, page numbers >= 3/4" from edge
+\usepackage[margin = 1.00in, includehead, footskip=0.25in]{geometry}
+
+% double-spaced (except bibliography)
+\usepackage{setspace}
+\doublespacing
+
+\usepackage{bibentry}
+% all text should be 12pt % she relaxed this constraint
+% these may not be necessary for all students/disciplines
+% \let\oldfootnotesize\footnotesize
+% \renewcommand{\footnotesize}{\normalsize}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{lipsum}% http://ctan.org/pkg/lipsum
+\usepackage{tikz}
+%\usepackage{ccaption}% http://ctan.org/pkg/ccaption
+% include references in table of contents
+% http://tex.stackexchange.com/questions/71129/bibliography-in-table-of-contents
+% \usepackage[nottoc, notlot, notlof]{tocbibind}
+\usepackage{tocbibind}
+
+% remaining packages
+% these may not be necessary for all students/disciplines
+\usepackage{url}
+\usepackage{multirow}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{longtable}
+\usepackage{lscape}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+%\usepackage{breqn}
+%\graphicspath{ {figs/} }
+\usepackage{import} % -import- facilitates relative file references within each file
+\usepackage[round]{natbib}
+\usepackage{inputenc}
+\usepackage{listings}
+\usepackage{amsmath,amssymb,mathrsfs}
+\newcommand{\angstrom}{\textup{\AA}}
+
+% for eps to pdf conversion
+% these may not be necessary for all students/disciplines
+\usepackage{epstopdf}
+\epstopdfsetup{update} 
+\usepackage[intoc]{nomencl}
+\makenomenclature
+
+% pdf metadata
+\usepackage[pdfauthor={Matthew Moocarme},
+    pdftitle={Title},
+    hidelinks
+]{hyperref}
+
+%% This code creates the groups
+% -----------------------------------------
+\usepackage{etoolbox}
+\renewcommand\nomgroup[1]{%
+  \item[\bfseries
+  \ifstrequal{#1}{A}{Chapter 1}{%
+  \ifstrequal{#1}{B}{Chapter 2}{%
+  \ifstrequal{#1}{C}{Chapter 3}{%
+  \ifstrequal{#1}{D}{Chapter 4}{
+  \ifstrequal{#1}{E}{Chapter 5}}}}}%
+]}
+% -----------------------------------------
+ 
+
+\newcommand*\mycommand[1]{\texttt{\emph{#1}}}
+\newcommand*{\citen}[1]{%
+  \begingroup
+    \romannumeral-`\x % remove space at the beginning of \setcitestyle
+    \setcitestyle{numbers}%
+    \cite{#1}%
+  \endgroup   
+}
+% dissertation
+\begin{document}
+
+% front matter
+\frontmatter
+
+% dissertation guide requires that title page is part of page count, but has no page number
+% http://tex.stackexchange.com/questions/66562/how-to-set-page-counter-by-skipping-first-page
+\include{Title_page}
+\setcounter{page}{2}
+
+% front matter
+\include{Copyright_page}
+\include{Approval_page}
+\include{Abstract}
+\clearpage
+\thispagestyle{plain}
+\par\vspace*{.35\textheight}{\centering For my parents.\par}
+\include{Acknowledgments}
+
+% tables of contents
+\tableofcontents
+%\listoftables
+\listoffigures
+
+\mbox{}
+\nomenclature[A]{$\omega_p$}{Plasma Frequency}
+\nomenclature[A]{$n_e$}{Free Carrier Density}
+\nomenclature[A]{$e$}{Electric Charge of Electron}
+\nomenclature[A]{$m_e$}{Reduced Mass}
+\nomenclature[A]{$\epsilon_0$}{Permittivity of Free Space}
+\nomenclature[A]{$r$}{Displacement}
+\nomenclature[A]{$\gamma$}{Decay/Damping rate}
+\nomenclature[A]{$E$}{Electric Field}
+\nomenclature[A]{$E_m$}{Electric Field in Metal}
+\nomenclature[A]{$E_d$}{Electric Field in Dielectric}
+\nomenclature[A]{$H$}{Auxiliary Field}
+\nomenclature[A]{$H_m$}{Auxiliary Field in Metal}
+\nomenclature[A]{$H_d$}{Auxiliary Field in Dielectric}
+\nomenclature[A]{$\partial_x$}{Partial Derivative with respect to x}
+\nomenclature[A]{$\nabla$}{Differential Operator}
+\nomenclature[A]{$H$}{Auxiliary Field}
+\nomenclature[A]{$m$}{Mass}
+\nomenclature[A]{$\phi$}{Phase}
+\nomenclature[A]{$\omega_0$}{Angular Frequency Associated with Harmonic Restorative Force}
+\nomenclature[A]{$P$}{Polarization Density}
+\nomenclature[A]{$m$}{Mass}
+\nomenclature[A]{$D$}{Displacement Field}
+\nomenclature[A]{$\epsilon$}{Material Permittivity}
+\nomenclature[A]{$c$}{Speed of Light}
+\nomenclature[A]{$k$}{Wave-Vector}
+\nomenclature[A]{$k_0$}{Wave-Vector in Free Space}
+\nomenclature[A]{$k_d$}{Wave-Vector in Dielectric}
+\nomenclature[A]{$k_m$}{Wave-Vector in Metal}
+\nomenclature[A]{$k_{SP}$}{Wave-Vector of Surface Plasmon}
+\nomenclature[A]{$\epsilon_d$}{Permittivity of Dielectric}
+\nomenclature[A]{$\epsilon_m$}{Permittivity of Metal}
+\nomenclature[A]{SPP}{Surface Plasmon Polariton}
+\nomenclature[A]{LSP}{Localized Surface Plasmon}
+\nomenclature[A]{$\chi$}{Material Susceptibility}
+\nomenclature[A]{DC}{Direct Current}
+\nomenclature[A]{$t$}{Time}
+\nomenclature[B]{$q$}{Electric Charge}
+\nomenclature[B]{$m*$}{Reduced Mass}
+\nomenclature[B]{MO}{Magneto Optical}
+\nomenclature[B]{DC}{Direct Current}
+\nomenclature[B]{RHCP}{Right-Handed Circular-Polarization}
+\nomenclature[B]{LHCP}{Left-Handed Circular-Polarization}
+\nomenclature[B]{$j$}{Current Density}
+\nomenclature[B]{$r$}{Spatial Coordinate}
+\nomenclature[B]{$E$}{Electric Field}
+\nomenclature[B]{$B$}{Magnetic Field}
+\nomenclature[B]{$t$}{Time}
+\nomenclature[B]{$k$}{Restoring Force Constant}
+\nomenclature[B]{$\gamma$}{Decay/Damping Rate}
+\nomenclature[B]{$\omega$}{Angular Frequency}
+\nomenclature[B]{$\omega_p$}{Plasma Frequency}
+\nomenclature[B]{$\omega_c$}{Cyclotron Frequency}
+\nomenclature[B]{$\omega_0$}{Angular Frequency Associated with Harmonic Restorative Force}
+\nomenclature[B]{$\eta$}{Electron Density}
+\nomenclature[B]{$\epsilon$}{Material Permittivity}
+\nomenclature[B]{$\epsilon_0$}{Permittivity of Free Space}
+\nomenclature[B]{$\langle\rangle$}{Time-Average}
+\nomenclature[B]{$\sigma$}{Material Conductivity}
+\nomenclature[B]{$M$}{Magnetization}
+\nomenclature[C]{UV}{Ultra-Violet}
+\nomenclature[C]{$k$}{Wave-Vector}
+\nomenclature[C]{$J_m$}{Bessel Function of the m$^{th}$ Kind}
+\nomenclature[C]{$H_m$}{Hankel Function of the m$^{th}$ Kind}
+\nomenclature[C]{$\epsilon$}{Dielectric Constant}
+\nomenclature[C]{$E$}{Electric Field}
+\nomenclature[C]{$B$}{Magnetic Field}
+\nomenclature[C]{$f$}{Lorentz Force}
+\nomenclature[C]{$q$}{Electric Charge}
+\nomenclature[C]{$v$}{Velocity}
+\nomenclature[C]{$\rho$}{Charge Density}
+\nomenclature[C]{$c.c.$}{Complex Conjugate}
+\nomenclature[C]{$\epsilon_0$}{Permittivity of Free Space}
+\nomenclature[C]{$J$}{Current Density}
+\nomenclature[C]{$T$}{Torque}
+\nomenclature[C]{$P$}{Polarization Density}
+\nomenclature[C]{$\lambda$}{Wavelength}
+\nomenclature[C]{$A$}{Torque Vectors in Spherical Coordinate System}
+\nomenclature[C]{$P$}{Polarization Density}
+\nomenclature[D]{$k$}{Wave-Vector}
+\nomenclature[D]{$n$}{Fractal Order}
+\nomenclature[D]{$\delta$}{Delta Function}
+\nomenclature[D]{$T$}{Transmission Function}
+\nomenclature[D]{$r$}{Relative Scaling Factor}
+\nomenclature[D]{$i_c$}{$\sqrt{-1}$}
+\nomenclature[D]{$\lambda$}{Wavelength}
+\nomenclature[D]{PSNR}{Peak Signal-to-Noise Ratio}
+\nomenclature[D]{SLM}{Spatial Light Modulator}
+\nomenclature[D]{FS}{Fractalized Signal}
+\nomenclature[D]{OS}{Original Signal}
+\nomenclature[D]{DS}{Diffractal Signal}
+\nomenclature[D]{RFS}{Reconstructed Fourier-Transformed Signal}
+\nomenclature[D]{BDS}{Blocked Diffractal Signal}
+\nomenclature[D]{ROS}{Reconstructed Original Signal}
+\nomenclature[E]{$\lambda$}{Wavelength}
+\nomenclature[E]{$\theta_s$}{Aperture Tilt}
+\nomenclature[E]{$k_e$}{Coulombs Constant}
+\nomenclature[E]{$\epsilon_0$}{Permittivity of Free Space}
+\nomenclature[E]{$r$}{Spatial Coordinate}
+\nomenclature[E]{$q$}{Electric Charge}
+\nomenclature[E]{$R$}{Lattice Distance}
+\nomenclature[E]{$F$}{Force}
+\nomenclature[E]{$\omega$}{Angular Frequency}
+\nomenclature[E]{$c$}{Speed of Light}
+\nomenclature[E]{$\beta$}{Ratio of Speed to the Speed of Light}
+\nomenclature[E]{$M$}{Mass}
+\nomenclature[E]{$\omega_0$}{Angular Frequency Associated with Harmonic Restorative Force}
+\nomenclature[E]{$\gamma$}{Damping Rate}
+\nomenclature[E]{$\delta$}{Perturbation Parameter}
+\nomenclature[E]{$F^{int}$}{Interaction Force}
+\nomenclature[E]{$t$}{Time}
+\nomenclature[E]{$E$}{Electric Field}
+\nomenclature[E]{$x_h/y_h$}{Homogeneous Solution in the $x/y$ direction}
+\nomenclature[E]{$k$}{Wave-Vector}
+\nomenclature[E]{$\langle\rangle$}{Time-Average}
+\nomenclature[E]{$a$}{Metasurface Periodicity}
+\nomenclature[E]{$\psi$}{Azimuthal Component of Polarization}
+\nomenclature[E]{$\chi$}{Elliptical Component of Polarization}
+\nomenclature[E]{OR}{Optical Rotation}
+\nomenclature[E]{CD}{Circular Dichroism}
+\nomenclature[E]{OA}{Optical Activity}
+\nomenclature[E]{$P$}{Polarization Density}
+\nomenclature[E]{$N_0$}{Free Charge Carrier Density}
+\nomenclature[E]{$\epsilon$}{Material Permittivity}
+\nomenclature[E]{$\Gamma$}{Non-Locality Parameter}
+\nomenclature[E]{$T_{RCP}$}{Transmission of Right Circular Polarization}
+\nomenclature[E]{$T_{LCP}$}{Transmission of Left Circular Polarization}
+\nomenclature[E]{$S$}{Screening Factor}
+\nomenclature[E]{ZEP}{High Performance Electron Beam Resist}
+\nomenclature[E]{$MR$}{Milling Rate}
+\nomenclature[E]{$L$}{Layer Thickness}
+\nomenclature[E]{PMMA}{Electron Beam Resist}
+\nomenclature[E]{SEM}{Scanning Electron Microscope}
+ 
+\printnomenclature
+
+
+
+% content
+\mainmatter
+
+% Introduction
+\chapter{Introduction}
+\chaptermark{Introduction}
+\input{Introduction}
+\clearpage
+
+% chapter two
+\chapter{Ultra-low-intensity magneto-optical and mechanical effects in metal nanocolloids}
+\chaptermark{Magneto-Optical in Metal Nanocolloids} % short title in page header
+\input{Ch1_NLNP}
+\clearpage
+
+% chapter three
+\chapter{Plasmon-induced Lorentz forces of nanowire chiral hybrid modes}
+\chaptermark{Lorentz forces of nanowire chiral hybrid modes}
+\input{Ch2_chiral-hybrid-modes}
+\clearpage
+
+% chapter four
+\chapter{Robustness and spatial multiplexing via diffractal architectures}
+\chaptermark{Spatial multiplexing via diffractal architectures}
+\input{Ch3_diffractal2}
+\clearpage
+
+% chapter five
+\chapter{Meta-optical chirality and emergent eigen-polarization modes via plasmon interactions}
+\chaptermark{Meta-Optical Chirality}
+\input{Ch4_metasurface}
+\clearpage
+
+% Summary
+\chapter{Summary and Outlook}
+\chaptermark{Summary and Outlook}
+\input{Summary}
+
+\chapter{Appendix}
+\chaptermark{Appendix}
+\input{appendix}
+
+\chapter*{Previously Published Materials}
+\label{chap:ppm}
+\input{previously_published_materials}
+
+
+%\import{../../Research/Four/Paper/}{Tables}
+\clearpage
+%\import{../../Research/Four/Paper/}{Tables_appendix}
+\clearpage
+
+
+% end matter
+\singlespacing
+\bibliographystyle{apalike}
+\bibliography{../refs}
+
+\end{document}

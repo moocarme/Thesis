@@ -1,0 +1,1132 @@
+\providecommand{\noopsort}[1]{}\providecommand{\singleletter}[1]{#1}%
+\begin{thebibliography}{}
+
+\bibitem[BEA, 2010]{BEAMER}
+ (2010).
+\newblock {Layout BEAMER Advanced Features}.
+\newblock
+  \url{https://www.nanolithography.gatech.edu/training/Layout_BEAMER_Advanced_Features.pdf}.
+
+\bibitem[Aieta et~al., 2012]{Aieta}
+Aieta, F., Genevet, P., Yu, N., Kats, M.~A., Gaburro, Z., and Capasso, F.
+  ({2012}).
+\newblock {Out-of-Plane Reflection and Refraction of Light by Anisotropic
+  Optical Antenna Metasurfaces with Phase Discontinuities}.
+\newblock {\em {Nano Letters}}, {12}({3}):{1702--1706}.
+
+\bibitem[Allouce and Shallit, 2003]{Allouche}
+Allouce, J. and Shallit (2003).
+\newblock {\em Automatic Sequence: Theory, Applications, Generalizations}.
+\newblock Cambridge University Press.
+
+\bibitem[Al\`u et~al., 2007]{Alu:07}
+Al\`u, A., Silveirinha, M.~G., Salandrino, A., and Engheta, N. (2007).
+\newblock Epsilon-near-zero metamaterials and electromagnetic sources:
+  Tailoring the radiation phase pattern.
+\newblock {\em Phys. Rev. B}, 75:155410.
+
+\bibitem[Andrew~Chan and Kazarian, 2016]{Chan:2016}
+Andrew~Chan, K.~L. and Kazarian, S.~G. (2016).
+\newblock Attenuated total reflection fourier-transform infrared (atr-ftir)
+  imaging of tissues and live cells.
+\newblock {\em Chem. Soc. Rev.}, 45:1850--1864.
+
+\bibitem[Arcenegui et~al., 2013]{Arcenegui2013}
+Arcenegui, J.~J., Garcia-Sanchez, P., Morgan, H., and Ramos, A. (2013).
+\newblock Electro-orientation and electrorotation of metal nanowires.
+\newblock {\em Physical Review E}, 88:063018.
+
+\bibitem[Armelles et~al., 2013]{Armelles2}
+Armelles, G., Cebollada, A., Garcia-martin, A., and Gonzalez, M. (2013).
+\newblock Magnetoplasmonics: combining magnetic and plasmonic functionalities.
+\newblock {\em Advanced Optical Materials}, 1:10--35.
+
+\bibitem[Ashkin, 1997]{Laboratories1997}
+Ashkin, A. ({1997}).
+\newblock {Optical trapping and manipulation of neutral particles using
+  lasers}.
+\newblock {\em {Proceedings of the National Academy of Sciences}},
+  {94}({10}):{4853--4860}.
+
+\bibitem[Ashkin, 2001]{Ashkin2001}
+Ashkin, A. (2001).
+\newblock {\em History of Optical Trapping and Manipulation of Small Neutral
+  Particles, Atoms, and Molecules}, pages 1--31.
+\newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
+
+\bibitem[Atwater, 2007]{Atwater07}
+Atwater, H. (2007).
+\newblock The promise of plasmonics.
+\newblock {\em Scientific American}, 296(4):56.
+
+\bibitem[Barnes and Aguie, 2009]{Barnes2}
+Barnes, W. and Aguie, B. (2009).
+\newblock Diffractive coupling in gold nanoparticle arrays and the effect of
+  disorder.
+\newblock {\em Optics Letters}, 34:401--403.
+
+\bibitem[Barnes et~al., 2003]{Barnes}
+Barnes, W., Dereux, A., and Ebbesen, T. (2003).
+\newblock Surface plasmon subwavelength optics.
+\newblock {\em Nature}, 424:824--830.
+
+\bibitem[Barrera et~al., 2012]{Barrera}
+Barrera, J.~F., Tebaldi, M., Amaya, D., Furlan, W.~D., Monsoriu, J.~A.,
+  Bolognini, N., and Torroba, R. ({2012}).
+\newblock {Multiplexing of encrypted data using fractal masks}.
+\newblock {\em {Optics Letters}}, {37}({14}):{2895--2897}.
+
+\bibitem[Barron, 2009]{Barron}
+Barron, L.~D. (2009).
+\newblock {\em Molecular Light Scattering and Optical Activity}.
+\newblock Cambridge University Press, New York, NY, USA, 2nd edition.
+
+\bibitem[Bashevoy et~al., 2005]{Bashevoy}
+Bashevoy, M., Fedotov, V., and Zheludev, N. (2005).
+\newblock Optical whirlpool on an absorbing metallic nanoparticle.
+\newblock {\em Optics Express}, 13(21):8372--8379.
+
+\bibitem[Belotelov et~al., 2011]{Belotelov}
+Belotelov, V.~I., Akimov, I.~A., Pohl, M., Kotov, V.~A., Kasture, S.,
+  Vengurlekar, A.~S., Gopal, A.~V., Yakovlev, D.~R., Zvezdin, A.~K., and Bayer,
+  M. ({2011}).
+\newblock {Enhanced magneto-optical effects in magnetoplasmonic crystals}.
+\newblock {\em {Nature Nanotechnology}}, {6}({6}):{370--376}.
+
+\bibitem[Berry, 1979]{Berry}
+Berry, M. ({1979}).
+\newblock {Diffractals}.
+\newblock {\em {Journal of Phys A - Mathematical and General}},
+  {12}({6}):{781--797}.
+
+\bibitem[Beth, 1936]{Beth1936}
+Beth, R.~A. (1936).
+\newblock Mechanical detection and measurement of the angular momentum of
+  light.
+\newblock {\em Physical Review}, 50:115--125.
+
+\bibitem[Bliokh et~al., 2011]{Bliokh}
+Bliokh, K.~Y., Ostrovskaya, E.~A., Alonso, M.~A., Rodr\'{i}guez-Herrera, O.~G.,
+  Lara, D., and Dainty, C. (2011).
+\newblock Spin-to-orbital angular momentum conversion in focusing, scattering,
+  and imaging systems.
+\newblock {\em Optics Express}, 19(27):26132--26149.
+
+\bibitem[Bojko, 2013]{SpinCurve}
+Bojko, R. (2013).
+\newblock {ZEP-520A Process Information}.
+\newblock \url
+  {https://ebeam.mff.uw.edu/ebeamweb/process/process/zep520a.html}.
+
+\bibitem[Bonin et~al., 2002]{Bonin}
+Bonin, K., Kourmanov, B., and Walker, T. ({2002}).
+\newblock {Light torque nanocontrol, nanomotors and nanorockers}.
+\newblock {\em {Optics Express}}, {10}({19}):{984--989}.
+
+\bibitem[Boriskina and Reinhard, 2012]{Boriskina}
+Boriskina, S.~V. and Reinhard, B.~M. (2012).
+\newblock Molding the flow of light on the nanoscale: from vortex nanogears to
+  phase-operated plasmonic machinery.
+\newblock {\em Nanoscale}, 4:76--90.
+
+\bibitem[Boyd, 2008]{Boyd}
+Boyd, R.~W. (2008).
+\newblock {\em Nonlinear Optics}.
+\newblock Academic Press, Burlington, third edition.
+
+\bibitem[Brandao and Cavalcanti, 2013]{Brandao}
+Brandao, P.~A. and Cavalcanti, S.~B. (2013).
+\newblock Optical spin-to-orbital plasmonic angular momentum conversion in
+  subwavelength apertures.
+\newblock {\em Optics Letters}, 38(6):920--922.
+
+\bibitem[Canfield et~al., 2007]{Canfield}
+Canfield, B.~K., Husu, H., Laukkanen, J., Bai, B., Kuittinen, M., Turunen, J.,
+  and Kauranen, M. ({2007}).
+\newblock {Local field asymmetry drives second-harmonic generation in
+  noncentrosymmetric nanodimers}.
+\newblock {\em {Nano Letters}}, {7}({5}):{1251--1255}.
+
+\bibitem[Cao and Cryan, 2012]{Cao}
+Cao, T. and Cryan, M.~J. ({2012}).
+\newblock {Enhancement of circular dichroism by a planar non-chiral magnetic
+  metamaterial}.
+\newblock {\em {Journal of Optics}}, {14}({8}).
+
+\bibitem[Cao et~al., 2015a]{Cao15_2}
+Cao, T., Wei, C., and Mao, L. ({2015}a).
+\newblock {Numerical study of achiral phase-change metamaterials for ultrafast
+  tuning of giant circular conversion dichroism}.
+\newblock {\em {Scientific Reports}}, {5}.
+
+\bibitem[Cao et~al., 2015b]{Cao15}
+Cao, T., Wei, C.-W., Mao, L.-B., and Wang, S. ({2015}b).
+\newblock {Tuning of giant 2D-chiroptical response using achiral metasurface
+  integrated with graphene}.
+\newblock {\em {Optics Express}}, {23}({14}):{18620--18629}.
+
+\bibitem[Cao et~al., 2013]{Cao13}
+Cao, T., Zhang, L., Simpson, R.~E., Wei, C., and Cryan, M.~J. (2013).
+\newblock Strongly tunable circular dichroism in gammadion chiral phase-change
+  metamaterials.
+\newblock {\em Optics Express}, 21(23):27841--27851.
+
+\bibitem[Chang et~al., 2007]{Chang2007}
+Chang, D.~E., S\o{}rensen, A.~S., Hemmer, P.~R., and Lukin, M.~D. (2007).
+\newblock Strong coupling of single emitters to surface plasmons.
+\newblock {\em Physical Review B}, 76:035420.
+
+\bibitem[Chaumet and Nieto-Vesperinas, 2000]{Chaumet}
+Chaumet, P. and Nieto-Vesperinas, M. ({2000}).
+\newblock {Time-averaged total force on a dipolar sphere in an electromagnetic
+  field}.
+\newblock {\em {Optics Letters}}, {25}({15}):{1065--1067}.
+
+\bibitem[Chowdhury et~al., 1985]{Chowdhury1985}
+Chowdhury, A., Ackerson, B., and Clark, N. ({1985}).
+\newblock {Laser-induced freezing}.
+\newblock {\em {Physical Review Letters}}, {55}({8}):{833--836}.
+
+\bibitem[Chyou et~al., 2005]{Chyou}
+Chyou, J., Chu, C., Shih, Z., Lin, C., Chen, S., and Shu, F. (2005).
+\newblock Fabrication and metrology of an electro-optic polymer light modulator
+  based on waveguide-coupled surface plasmon resonance.
+\newblock {\em Optical Engineering}, 44(3):034001--034001--7.
+
+\bibitem[Cortie and Ford, 2007]{Cortie}
+Cortie, M. and Ford, M. (2007).
+\newblock A plasmon-induced current loop in gold semi-shells.
+\newblock {\em Nanotechnology}, 18(23):235704.
+
+\bibitem[Decker et~al., 2010]{Decker}
+Decker, M., Zhao, R., Soukoulis, C.~M., Linden, S., and Wegener, M. (2010).
+\newblock Twisted split-ring-resonator photonic metamaterial with huge optical
+  activity.
+\newblock {\em Optics Letters}, 35(10):1593--1595.
+
+\bibitem[Deshko et~al., 2016]{Deshko16}
+Deshko, Y., Krusin-Elbaum, L., Menon, V., Khanikaev, A., and Trevino, J.
+  (2016).
+\newblock Surface plasmon polaritons in topological insulator nano-films and
+  superlattices.
+\newblock {\em Optics Express}, 24(7):7398--7410.
+
+\bibitem[Dicken et~al., 2008]{Dicken}
+Dicken, M.~J., Sweatlock, L.~A., Pacifici, D., Lezec, H.~J., Bhattacharya, K.,
+  and Atwater, H.~A. (2008).
+\newblock Electrooptic modulation in thin film barium titanate plasmonic
+  interferometers.
+\newblock {\em Nano Letters}, 8(11):4048--4052.
+
+\bibitem[Dienerowitz et~al., 2008]{Dienerowitz2008}
+Dienerowitz, M., Mazilu, M., and Dholakia, K. (2008).
+\newblock Optical manipulation of nanoparticles: a review.
+\newblock {\em Journal of Nanophotonics}, 2(1):021875--021908.
+
+\bibitem[Ding et~al., 2015]{Ding}
+Ding, F., Wang, Z., He, S., Shalaev, V.~M., and Kildishev, A.~V. (2015).
+\newblock Broadband high-efficiency half-wave plate: A supercell-based
+  plasmonic metasurface approach.
+\newblock {\em ACS Nano}, 9(4):4111--4119.
+\newblock PMID: 25790895.
+
+\bibitem[Ditlbacher et~al., 2005]{Ditlbacher}
+Ditlbacher, H., Hohenau, A., Wagner, D., Kreibig, U., Rogers, M., Hofer, F.,
+  Aussenegg, F.~R., and Krenn, J.~R. (2005).
+\newblock Silver nanowires as surface plasmon resonators.
+\newblock {\em Physical Review Letters}, 95:257403.
+
+\bibitem[Dolling et~al., 2007]{Dolling:07}
+Dolling, G., Wegener, M., Soukoulis, C.~M., and Linden, S. (2007).
+\newblock Negative-index metamaterial at 780 nm wavelength.
+\newblock {\em Optics Letters}, 32(1):53--55.
+
+\bibitem[Drake and Genack, 1989]{Genack}
+Drake, J. and Genack, A. ({1989}).
+\newblock {Observation of Nonclassical Optical Diffusion}.
+\newblock {\em {Physical Review Letters}}, {63}({3}):{259--262}.
+
+\bibitem[Du et~al., 2011]{Du}
+Du, G.-X., Saito, S., and Takahashi, M. (2011).
+\newblock Magnetic field effect on the localized plasmon resonance in patterned
+  noble metal nanostructures.
+\newblock {\em IEEE Transactions on Magnetics}, 47(10):3167--3169.
+
+\bibitem[Duarte et~al., 2007]{Kelly07}
+Duarte, M.~F., Davenport, M.~A., Wakin, M.~B., Laska, J.~N., Takhar, D., Kelly,
+  K.~F., and Baraniuk, R.~G. (2007).
+\newblock Multiscale random projections for compressive classification.
+\newblock In {\em Image Processing, 2007. ICIP 2007. IEEE International
+  Conference on}, volume~6, pages VI -- 161--VI -- 164.
+
+\bibitem[Edwards et~al., 2006]{Edwards2006}
+Edwards, B., Mayer, T.~S., and Bhiladvala, R.~B. (2006).
+\newblock {Synchronous electrorotation of nanowires in fluid}.
+\newblock {\em Nano letters}, 6(4):626--632.
+
+\bibitem[Eftekhari and Davis, 2012]{Eftekhari}
+Eftekhari, F. and Davis, T.~J. ({2012}).
+\newblock {Strong chiral optical response from planar arrays of subwavelength
+  metallic structures supporting surface plasmon resonances}.
+\newblock {\em {Physical Review B}}, {86}({7}).
+
+\bibitem[Fan et~al., 2010]{FanSci}
+Fan, J.~A., Wu, C., Bao, K., Bao, J., Bardhan, R., Halas, N.~J., Manoharan,
+  V.~N., Nordlander, P., Shvets, G., and Capasso, F. (2010).
+\newblock Self-assembled plasmonic nanoparticle clusters.
+\newblock {\em Science}, 328(5982):1135--1138.
+
+\bibitem[Fan and Govorov, 2010]{Fan10}
+Fan, Z. and Govorov, A.~O. (2010).
+\newblock Plasmonic circular dichroism of chiral metal nanoparticle assemblies.
+\newblock {\em Nano Letters}, 10(7):2580--2587.
+\newblock PMID: 20536209.
+
+\bibitem[Fang et~al., 2013]{Fang2013}
+Fang, Z., Zhen, Y.-R., Neumann, O., Polman, A., García~de Abajo, F.~J.,
+  Nordlander, P., and Halas, N.~J. (2013).
+\newblock Evolution of light-induced vapor generation at a liquid-immersed
+  metallic nanoparticle.
+\newblock {\em Nano Letters}, 13(4):1736--1742.
+\newblock PMID: 23517407.
+
+\bibitem[Funston et~al., 2009]{Funston}
+Funston, A.~M., Novo, C., Davis, T.~J., and Mulvaney, P. (2009).
+\newblock Plasmon coupling of gold nanorods at short distances and in different
+  geometries.
+\newblock {\em Nano Letters}, 9(4):1651--1658.
+
+\bibitem[Gevorgyan and Rafayelyan, 2013]{Gevorgyan}
+Gevorgyan, A.~H. and Rafayelyan, M.~S. (2013).
+\newblock Optics of anisotropic metamaterial based structurally chiral photonic
+  crystals.
+\newblock {\em Journal of Optics}, 15(12):125103.
+
+\bibitem[Gonzalez-Diaz et~al., 2009]{Gonzalez}
+Gonzalez-Diaz, J.~B., Garcia-Martin, J.~M., Garcia-Martin, A., Navas, D.,
+  Asenjo, A., Vazquez, M., Hernandez-Velez, M., and Armelles, G. (2009).
+\newblock Plasmon-enhanced magneto-optical activity in ferromagnetic membranes.
+\newblock {\em Applied Physics Letters}, 94(26).
+
+\bibitem[Goodman, 2005]{Goodman}
+Goodman, J.~W. (2005).
+\newblock {\em Introduction to Fourier optics}.
+\newblock Roberts and Co.
+
+\bibitem[Gordon, 1973]{Gordon}
+Gordon, J. (1973).
+\newblock Radiation forces and momenta in dielectric media.
+\newblock {\em Physical Review A}, 8:14--21.
+
+\bibitem[Gu and Kornev, 2010]{Gu}
+Gu, Y. and Kornev, K.~G. (2010).
+\newblock Plasmon enhanced direct and inverse faraday effects in non-magnetic
+  nanocomposites.
+\newblock {\em Journal of the Optical Society of America B}, 27(11):2165--2173.
+
+\bibitem[Guerrero-Martinez et~al., 2011]{Guerrero-Martinez}
+Guerrero-Martinez, A., Lorenzo Alonso-Gomez, J., Auguie, B., Magdalena~Cid, M.,
+  and Liz-Marzan, L.~M. ({2011}).
+\newblock {From individual to collective chirality in metal nanoparticles}.
+\newblock {\em {Nano Today}}, {6}({4}):{381--400}.
+
+\bibitem[Hai-Dong et~al., 2008]{Deng}
+Hai-Dong, D., Jin, L., Wei-Ren, Z., Wei, Z., Xu-Sheng, L., Ting, S., Qiao-Feng,
+  D., Li-Jun, W., Sheng, L., and Gopal, A.~V. (2008).
+\newblock Enhancement of switching speed by laser-induced clustering of
+  nanoparticles in magnetic fluids.
+\newblock {\em Applied Physics Letters}, 92(23):233103.
+
+\bibitem[Hasman et~al., 2005]{Hasman}
+Hasman, E., Biener, G., Niv, A., and V., K. (2005).
+\newblock Space-variant polarization manipulation.
+\newblock {\em Progress in Optics}, 47:215--289.
+
+\bibitem[Haus, 2014]{Haus}
+Haus, H. (2014).
+\newblock {\em Waves and Fields in Optoelectronics}.
+\newblock Prentice Hall.
+
+\bibitem[Hecht et~al., 1996]{Hecht}
+Hecht, B., Bielefeldt, H., Novotny, L., Inouye, Y., and Pohl, D. (1996).
+\newblock Local excitation, scattering, and interference of surface plasmons.
+\newblock {\em Physical Review Letters}, 77:1889--1892.
+
+\bibitem[Hentschel et~al., 2010]{Hentschel:10}
+Hentschel, M., Saliba, M., Vogelgesang, R., Giessen, H., Alivisatos, A.~P., and
+  Liu, N. (2010).
+\newblock Transition from isolated to collective modes in plasmonic oligomers.
+\newblock {\em Nano Letters}, 10(7):2721--2726.
+\newblock PMID: 20586409.
+
+\bibitem[Hentschel et~al., 2012]{Hentschel}
+Hentschel, M., Schaeferling, M., Weiss, T., Liu, N., and Giessen, H. ({2012}).
+\newblock {Three-Dimensional Chiral Plasmonic Oligomers}.
+\newblock {\em {Nano Letters}}, {12}({5}):{2542--2547}.
+
+\bibitem[Hertel, 2006]{Hertel}
+Hertel, R. (2006).
+\newblock Theory of the inverse faraday effect in metals.
+\newblock {\em Journal of Magnetism and Magnetic Materials}, 303(1):L1--L4.
+
+\bibitem[Homola, 2008]{Homola}
+Homola, J. (2008).
+\newblock Surface plasmon resonance sensors for detection of chemical and
+  biological species.
+\newblock {\em Chemical Reviews}, 108(2):462--493.
+\newblock PMID: 18229953.
+
+\bibitem[Horvath et~al., 2010]{Horvath}
+Horvath, P., Smid, P., Vaskova, I., and Hrabovsky, M. ({2010}).
+\newblock {Koch fractals in physical optics and their Fraunhofer diffraction
+  patterns}.
+\newblock {\em {Optik}}, {121}({2}):{206--213}.
+
+\bibitem[Hou et~al., 2004]{Hou}
+Hou, B., Xu, G., Wen, W., and Wong, G. ({2004}).
+\newblock {Diffraction by an optical fractal grating}.
+\newblock {\em {Applied Physics Letters}}, {85}({25}):{6125--6127}.
+
+\bibitem[Howland and Howell, 2013]{Howland}
+Howland, G.~A. and Howell, J.~C. ({2013}).
+\newblock {Efficient High-Dimensional Entanglement Imaging with a
+  Compressive-Sensing Double-Pixel Camera}.
+\newblock {\em {Physical Review X}}, {3}({1}).
+
+\bibitem[Hugel et~al., 2002]{Hugel2002}
+Hugel, T., Holland, N., Cattani, A., Moroder, L., Seitz, M., and Gaub, H.
+  ({2002}).
+\newblock {Single-molecule optomechanical cycle}.
+\newblock {\em {Science}}, {296}({5570}):{1103--1106}.
+
+\bibitem[Jackson, 1999]{jackson}
+Jackson, J.~D. (1999).
+\newblock {\em Classical electrodynamics}.
+\newblock Wiley, New York, {NY}, 3rd ed. edition.
+
+\bibitem[Jacquin, 1993]{Jacquin}
+Jacquin, A. ({1993}).
+\newblock {Fractal Image-Coding - A Review}.
+\newblock {\em {Proceedings of the IEEE}}, {81}({10}):{1451--1465}.
+
+\bibitem[Jain et~al., 2006]{Jain}
+Jain, P.~K., Eustis, S., and El-Sayed, M.~A. (2006).
+\newblock Plasmon coupling in nanorod assemblies:  optical absorption,
+  discrete dipole approximation simulation, and exciton-coupling model.
+\newblock {\em Journal of Physical Chemistry B}, 110(37):18243--18253.
+
+\bibitem[Janhunen and Sandroos, 2007]{Janhunen2007}
+Janhunen, P. and Sandroos, A. ({2007}).
+\newblock {Simulation study of solar wind push on a charged wire: basis of
+  solar wind electric sail propulsion}.
+\newblock {\em {Annales Geophysicae}}, {25}({3}):{755--767}.
+
+\bibitem[Kauranen and Zayats, 2012]{Kauranen}
+Kauranen, M. and Zayats, A.~V. ({2012}).
+\newblock {Nonlinear plasmonics}.
+\newblock {\em {Nature Photonics}}, {6}({11}):{737--748}.
+
+\bibitem[Kelly et~al., 2003]{Kelly03}
+Kelly, K., Coronado, E., Zhao, L., and Schatz, G. (2003).
+\newblock The optical properties of metal nanoparticles: The influence of size,
+  shape, and dielectric environment.
+\newblock {\em Journal of Physical Chemistry B}, 107(3):68--677.
+
+\bibitem[Keshoju et~al., 2007]{Keshoju}
+Keshoju, K., Xing, H., and Sun, L. (2007).
+\newblock Magnetic field driven nanowire rotation in suspension.
+\newblock {\em Applied Physics Letters}, 91(12):123114.
+
+\bibitem[Khanikaev et~al., 2016]{Khanikaev}
+Khanikaev, A.~B., Arju, N., Fan, Z., Purtseladze, D., Lu, F., Lee, J.,
+  Sarriugarte, P., Schnell, M., Hillenbrand, R., Belkin, M.~A., and Shvets, G.
+  ({2016}).
+\newblock {Experimental demonstration of the microscopic origin of circular
+  dichroism in two-dimensional metamaterials}.
+\newblock {\em {Nature COmmunications}}, {7}.
+
+\bibitem[Khorasaninejad et~al., 2016a]{Khorasaninejad1190}
+Khorasaninejad, M., Chen, W.~T., Devlin, R.~C., Oh, J., Zhu, A.~Y., and
+  Capasso, F. (2016a).
+\newblock Metalenses at visible wavelengths: Diffraction-limited focusing and
+  subwavelength resolution imaging.
+\newblock {\em Science}, 352(6290):1190--1194.
+
+\bibitem[Khorasaninejad et~al., 2016b]{Khorasaninejad:2016}
+Khorasaninejad, M., Chen, W.~T., Zhu, A.~Y., Oh, J., Devlin, R.~C., Rousso, D.,
+  and Capasso, F. (2016b).
+\newblock Multispectral chiral imaging with a metalens.
+\newblock {\em Nano Letters}, 16(7):4595--4600.
+\newblock PMID: 27267137.
+
+\bibitem[Kippenberg and Vahala, 2007]{Kippenberg2007}
+Kippenberg, T.~J. and Vahala, K.~J. ({2007}).
+\newblock {Cavity opto-mechanics}.
+\newblock {\em {Optics Express}}, {15}({25}):{17172--17205}.
+
+\bibitem[Knight et~al., 2007]{Knight2007}
+Knight, M.~W., Grady, N.~K., Bardhan, R., Hao, F., Nordlander, P., and Halas,
+  N.~J. (2007).
+\newblock Nanoparticle-mediated coupling of light into a nanowire.
+\newblock {\em Nano Letters}, 7(8):2346--2350.
+\newblock PMID: 17629348.
+
+\bibitem[Kretschmann and Raether, 1968]{Kretschmann}
+Kretschmann, E. and Raether, H. (1968).
+\newblock {Radiative decay of nonradiative surface plasmons excited by light}.
+\newblock {\em Z. Naturforsch. A}, 23:2135.
+
+\bibitem[Kumar et~al., 2011]{Kumar2011}
+Kumar, A., Boruah, B.~M., and Liang, X.-J. (2011).
+\newblock Gold nanoparticles: Promising nanomaterials for the diagnosis of
+  cancer and hiv/aids.
+\newblock {\em Journal of Nanomaterials}, 2011:22:22--22:22.
+
+\bibitem[Kuo, 2001]{Kuo2001}
+Kuo, S.~C. (2001).
+\newblock Using optics to measure biological forces and mechanics.
+\newblock {\em Traffic}, 11(2):757--763.
+
+\bibitem[Kuznetsov et~al., 2012]{Kuznetsov}
+Kuznetsov, A.~I., Miroshnichenko, A.~E., Fu, Y.~H., Zhang, J., and Luk'yanchuk,
+  B. ({2012}).
+\newblock {Magnetic light}.
+\newblock {\em {Scientific Reports}}, {2}.
+
+\bibitem[Kuzyk et~al., 2012]{Kuzyk}
+Kuzyk, A., Schreiber, R., Fan, Z., Pardatscher, G., Roller, E.-M., Hoegele, A.,
+  Simmel, F.~C., Govorov, A.~O., and Liedl, T. ({2012}).
+\newblock {DNA-based self-assembly of chiral plasmonic nanostructures with
+  tailored optical response}.
+\newblock {\em {Nature}}, {483}({7389}):{311--314}.
+
+\bibitem[Kwon et~al., 2008]{Kwon08}
+Kwon, D.-H., Werner, P.~L., and Werner, D.~H. (2008).
+\newblock Optical planar chiral metamaterial designs for strong circular
+  dichroism and polarization rotation.
+\newblock {\em Optics Express}, 16(16):11802--11807.
+
+\bibitem[Lal et~al., 2007]{Lal2007}
+Lal, S., Link, S., and Halas, N.~J. ({2007}).
+\newblock {Nano-optics from sensing to waveguiding}.
+\newblock {\em {Nature Photonics}}, {1}({11}):{641--648}.
+
+\bibitem[Landau and Lifshitz, 1960]{Landau}
+Landau, L. and Lifshitz, E. (1960).
+\newblock {\em Electrodynamics of Continuous Media}.
+\newblock Pergamon Press.
+
+\bibitem[Lang and Block, 2003]{Lang2003}
+Lang, M.~J. and Block, S.~M. (2003).
+\newblock Resource letter: Lbot-1: Laser-based optical tweezers.
+\newblock {\em American Journal of Physics}, 71(3):201--215.
+
+\bibitem[Lee and Padgett, 2012]{Lee2012}
+Lee, M.~P. and Padgett, M.~J. (2012).
+\newblock Optical tweezers: a light touch.
+\newblock {\em Journal of Microscopy}, 248(3):219--222.
+
+\bibitem[Lee and Park, 2016]{Lee16}
+Lee, S. and Park, Q.-H. ({2016}).
+\newblock {Dynamic coupling of plasmonic resonators}.
+\newblock {\em {Scientific Reports}}, {6}.
+
+\bibitem[Lehmuskero et~al., 2014]{Lehmuskero:14}
+Lehmuskero, A., Li, Y., Johansson, P., and K\"{a}ll, M. (2014).
+\newblock Plasmonic particles set into fast orbital motion by an optical vortex
+  beam.
+\newblock {\em Optics Express}, 22(4):4349--4356.
+
+\bibitem[Lehmuskero et~al., 2013]{Lehmuskero1}
+Lehmuskero, A., Ogier, R., Gschneidtner, T., Johansson, P., and Käll, M.
+  (2013).
+\newblock Ultrafast spinning of gold nanoparticles in water using circularly
+  polarized light.
+\newblock {\em Nano Letters}, 13(7):3129--3134.
+
+\bibitem[Levi, 2016]{Levi:16}
+Levi, A. F.~J. (2016).
+\newblock The drude model.
+\newblock In {\em Essential Classical Mechanics for Device Physics}, 2053-2571,
+  pages 6--1 to 6--19. Morgan \& Claypool Publishers.
+
+\bibitem[Liaw et~al., 2014]{Liaw}
+Liaw, J.-W., Lo, W.-J., and Kuo, M.-K. ({2014}).
+\newblock {Wavelength-dependent longitudinal polarizability of gold nanorod on
+  optical torques}.
+\newblock {\em {Optics Express}}, {22}({9}):{10858--10867}.
+
+\bibitem[Link and El-Sayed, 1999]{Link}
+Link, S. and El-Sayed, M. (1999).
+\newblock Spectral properties and relaxation dynamics of surface plasmon
+  electronic oscillations in gold and silver nanodots and nanorods.
+\newblock {\em Journal of Physical Chemistry B}, 103(40):8410--8426.
+
+\bibitem[Link and El-Sayed, 2000]{Link1}
+Link, S. and El-Sayed, M. ({2000}).
+\newblock {Shape and size dependence of radiative, non-radiative and
+  photothermal properties of gold nanocrystals}.
+\newblock {\em {International Review of Physical Chemistry}},
+  {19}({3}):{409--453}.
+
+\bibitem[Macke et~al., 1996]{Macke}
+Macke, A., Mueller, J., and Raschke, E. ({1996}).
+\newblock {Single scattering properties of atmospheric ice crystals}.
+\newblock {\em {Journal of the Atmospheric Sciences}}, {53}({19}):{2813--2825}.
+
+\bibitem[Maier, 2007]{MaierBook}
+Maier, S.~A. (2007).
+\newblock {\em Plasmonics: Fundamentals and Applications}.
+\newblock Springer, first edition.
+
+\bibitem[Maier and Atwater, 2005]{Maier2005}
+Maier, S.~A. and Atwater, H.~A. (2005).
+\newblock Plasmonics: Localization and guiding of electromagnetic energy in
+  metal/dielectric structures.
+\newblock {\em Journal of Applied Physics}, 98(1):9.
+
+\bibitem[Mandlebrot, 1982]{Mandlebrot}
+Mandlebrot, B. (1982).
+\newblock {\em The Fractal Geometry of Nature}.
+\newblock Freeman, New York.
+
+\bibitem[Metzger et~al., 2012]{Metzger2}
+Metzger, B., Hentschel, M., Lippitz, M., and Giessen, H. ({2012}).
+\newblock {Third-harmonic spectroscopy and modeling of the nonlinear response
+  of plasmonic nanoantennas}.
+\newblock {\em {Optics Letters}}, {37}({22}):{4741--4743}.
+
+\bibitem[Metzger et~al., 2016]{Metzger}
+Metzger, B., Hentschel, M., Nesterov, M., Schumacher, T., Lippitz, M., and
+  Giessen, H. ({2016}).
+\newblock {Nonlinear optics of complex plasmonic structures: linear and
+  third-order optical response of orthogonally coupled metallic nanoantennas}.
+\newblock {\em {Applied Physics B- Lasers and Optics}}, {122}({4}).
+
+\bibitem[Mie, 1908]{Mie}
+Mie, G. (1908).
+\newblock Beiträge zur optik trüber medien, speziell kolloidaler
+  metallösungen.
+\newblock {\em Annalen der Physik}, 25:377.
+
+\bibitem[Moocarme, 2015a]{Code1}
+Moocarme, M. (2015a).
+\newblock {Sierpinski carpet generator}.
+\newblock
+  \url{https://github.com/moocarme/Diffractals/blob/master/Sierpinski.m}.
+
+\bibitem[Moocarme, 2015b]{Code2}
+Moocarme, M. (2015b).
+\newblock {Sierpinski carpet reconstruction algorithm}.
+\newblock \url{https://github.com/moocarme/Diffractals/blob/master/reconFun.m}.
+
+\bibitem[Moocarme et~al., 2014a]{Moocarme2014}
+Moocarme, M., Dominguez-Juarez, J.~L., and Vuong, L.~T. ({2014}a).
+\newblock {Ultralow-intensity magneto-optical and mechanical effects in metal
+  nanocolloids}.
+\newblock {\em {Nano Letters}}, {14}({3}):{1178--1183}.
+
+\bibitem[Moocarme et~al., 2014b]{Moocarme14}
+Moocarme, M., Kusin, B., and Vuong, L.~T. (2014b).
+\newblock Plasmon-induced lorentz forces of nanowire chiral hybrid modes.
+\newblock {\em Optical Materials Express}, 4(11):2355--2367.
+
+\bibitem[Moocarme et~al., 2017]{Moocarme16}
+Moocarme, M., Proscia, N., and Vuong, L.~T. (2017).
+\newblock Meta-optical chirality and emergent eigen-polarization modes via
+  plasmon interactions.
+\newblock {\em Scientific Reports}, Accepted.
+
+\bibitem[Moocarme and Vuong, 2015]{Moocarme15}
+Moocarme, M. and Vuong, L.~T. (2015).
+\newblock Robustness and spatial multiplexing via diffractal architectures.
+\newblock {\em Optics Express}, 23(22):28471--28478.
+
+\bibitem[Mueller et~al., 2016]{Mueller:16}
+Mueller, J. P.~B., Leosson, K., and Capasso, F. (2016).
+\newblock Ultracompact metasurface in-line polarimeter.
+\newblock {\em Optica}, 3(1):42--47.
+
+\bibitem[Mulvaney, 1996]{Mulvaney}
+Mulvaney, P. (1996).
+\newblock Surface plasmon spectroscopy of nanosized metal particles.
+\newblock {\em Langmuir}, 12(3):788--800.
+
+\bibitem[Na et~al., 2009]{Na}
+Na, L., Hui, L., Shining, Z., and Giessen, H. (2009).
+\newblock Stereometamaterials.
+\newblock {\em Nature Photonics}, 3(3):157 -- 162.
+
+\bibitem[Ni et~al., 2013]{Ni}
+Ni, X., Ishii, S., Kildishev, A.~V., and Shalaev, V.~M. ({2013}).
+\newblock {Ultra-thin, planar, Babinet-inverted plasmonic metalenses}.
+\newblock {\em {Light: Science \& Applications}}, {2}.
+
+\bibitem[Nie and Emery, 1997]{Nie}
+Nie, S. and Emery, S. ({1997}).
+\newblock {Probing single molecules and single nanoparticles by
+  surface-enhanced Raman scattering}.
+\newblock {\em {Science}}, {275}({5303}):{1102--1106}.
+
+\bibitem[Nieminen et~al., 2007]{NieminenRev}
+Nieminen, T.~A., Knoner, G., Heckenberg, N.~R., and Rubinsztein-Dunlop, H.
+  ({2007}).
+\newblock {Physics of optical tweezers}.
+\newblock In {Berns, MW and Greulich, KO}, editor, {\em {Laser Manipulation of
+  Cells and Tissues}}, volume~{82} of {\em {Methods in Cell Biology}}, pages
+  {207--236}. {Elsevier Academic Press Inc}.
+
+\bibitem[Nikolajsen et~al., 2004]{Nikolajsen}
+Nikolajsen, T., Leosson, K., and Bozhevolnyi, S. (2004).
+\newblock Surface plasmon polariton based modulators and switches operating at
+  telecom wavelengths.
+\newblock {\em Applied Physics Letters}, 85(24):5833--5835.
+
+\bibitem[Novotny et~al., 1997]{Novotny1997}
+Novotny, L., Bian, R.~X., and Xie, X.~S. (1997).
+\newblock Theory of nanometric optical tweezers.
+\newblock {\em Physical Review Letters}, 79:645--648.
+
+\bibitem[Novotny and van Hulst, 2011]{Novotny2011}
+Novotny, L. and van Hulst, N. (2011).
+\newblock Antennas for light.
+\newblock {\em Nature Photonics}, 5:83--90.
+\newblock PMID: 18229953.
+
+\bibitem[Owen and Rissman, 1983]{PEC}
+Owen, G. and Rissman, P. ({1983}).
+\newblock {Proximity Effect Correction for Electron-Beam Lithography by
+  Equalization of Background Dose}.
+\newblock {\em {Journal of Applied Physics}}, {54}({6}):{3573--3581}.
+
+\bibitem[Ozbay, 2006]{Ozbay}
+Ozbay, E. (2006).
+\newblock Plasmonics: Merging photonics and electronics at nanoscale
+  dimensions.
+\newblock {\em Science}, 311(5758):189--193.
+
+\bibitem[Padilla et~al., 2006]{Padilla:2006}
+Padilla, W.~J., Basov, D.~N., and Smith, D.~R. (2006).
+\newblock Negative refractive index metamaterials.
+\newblock {\em Materials Today}, 9(7–8):28 -- 35.
+
+\bibitem[Park et~al., 2015]{JPark:2015c}
+Park, J., Kang, J.-H., Liu, X., and Brongersma, M.~L. (2015).
+\newblock Electrically tunable epsilon-near-zero (enz) metafilm absorbers.
+\newblock {\em Sci. Rep.}, 5:15754.
+
+\bibitem[Paterson et~al., 2001]{Paterson2001}
+Paterson, L., MacDonald, M., Arlt, J., Sibbett, W., Bryant, P., and Dholakia,
+  K. ({2001}).
+\newblock {Controlled rotation of optically trapped microscopic particles}.
+\newblock {\em {Science}}, {292}({5518}):{912--914}.
+
+\bibitem[Petrich et~al., 1993]{Petrich1993}
+Petrich, W., Grieser, M., Grimm, R., Gruber, A., Habs, D., Miesner, H.,
+  Schwalm, D., Wanner, B., Wernoe, H., Wolf, A., Grieser, R., Huner, G., Klein,
+  R., Kuhl, T., Neumann, R., and Schroder, S. ({1993}).
+\newblock {Laser cooling of stored high-velocity ions by means of the
+  spontaneous force}.
+\newblock {\em {Physical Review A}}, {48}({3}):{2127--2144}.
+
+\bibitem[Pineider et~al., 2013]{Pineider}
+Pineider, F., Campo, G., Bonanni, V., Fernandez, C. d.~J., Mattei, G.,
+  Caneschi, A., Gatteschi, D., and Sangregorio, C. (2013).
+\newblock Circular magnetoplasmonic modes in gold nanoparticles.
+\newblock {\em Nano Letters}, 13(10):4785--4789.
+
+\bibitem[Plum et~al., 2011]{Plum11}
+Plum, E., Fedotov, V.~A., and Zheludev, N.~I. (2011).
+\newblock Asymmetric transmission: a generic property of two-dimensional
+  periodic patterns.
+\newblock {\em Journal of Optics}, 13(2):024006.
+
+\bibitem[Plum et~al., 2016]{Plum14}
+Plum, E., Fedotov, V.~A., and Zheludev, N.~I. (2016).
+\newblock Specular optical activity of achiral metasurfaces.
+\newblock {\em Applied Physics Letters}, 108(14).
+
+\bibitem[Prodan et~al., 2003]{Prodan}
+Prodan, E., Radloff, C., Halas, N., and Nordlander, P. ({2003}).
+\newblock {A hybridization model for the plasmon response of complex
+  nanostructures}.
+\newblock {\em {Science}}, {302}({5644}):{419--422}.
+
+\bibitem[Proscia et~al., 2016]{Proscia}
+Proscia, N.~V., Moocarme, M., Chang, R., Kretzschmar, I., Menon, V.~M., and
+  Vuong, L.~T. ({2016}).
+\newblock {Control of photo-induced voltages in plasmonic crystals via
+  spin-orbit interactions}.
+\newblock {\em {Optics Express}}, {24}({10}).
+
+\bibitem[Prosvirnin and Zheludev, 2005]{Prosvirnin}
+Prosvirnin, S.~L. and Zheludev, N.~I. (2005).
+\newblock Polarization effects in the diffraction of light by a planar chiral
+  structure.
+\newblock {\em Physical Review E}, 71:037603.
+
+\bibitem[Puente-Baliarda et~al., 1998]{Puente-Baliarda}
+Puente-Baliarda, C., Romeu, J., Pous, R., and Cardama, A. ({1998}).
+\newblock {On the behavior of the Sierpinski multiband fractal antenna}.
+\newblock {\em {IEEE Transactions on Antennas and Propagation}},
+  {46}({4}):{517--524}.
+
+\bibitem[Qin et~al., 2016]{Qin}
+Qin, F., Ding, L., Zhang, L., Monticone, F., Chum, C.~C., Deng, J., Mei, S.,
+  Li, Y., Teng, J., Hong, M., Zhang, S., Al{\`u}, A., and Qiu, C.-W. (2016).
+\newblock Hybrid bilayer plasmonic metasurface efficiently manipulates visible
+  light.
+\newblock {\em Science Advances}, 2(1).
+
+\bibitem[Radonic et~al., 2012]{Radonic}
+Radonic, V., Palmer, K., Stojanovic, G., and Crnojevic-Bengin, V. ({2012}).
+\newblock {Flexible Sierpinski Carpet Fractal Antenna on a Hilbert Slot
+  Patterned Ground}.
+\newblock {\em {International Journal of Antennas and Propagation}}.
+
+\bibitem[Raether, 1988]{Raether:88}
+Raether, H. (1988).
+\newblock {\em {Surface Plasmons on Smooth and Rough Surfaces and on
+  Gratings}}.
+\newblock Springer.
+
+\bibitem[Raja et~al., 1995]{Raja}
+Raja, M., Allen, D., and Sisk, W. (1995).
+\newblock Room-temperature inverse faraday effect in terbium gallium garnet.
+\newblock {\em Applied Physics Letters}, 67(15):2123--2125.
+
+\bibitem[Rakic et~al., 1998]{Rakic}
+Rakic, A., Djurisic, A., Elazar, J., and Majewski, M. ({1998}).
+\newblock {Optical properties of metallic films for vertical-cavity
+  optoelectronic devices}.
+\newblock {\em {Applied Optics}}, {37}({22}):{5271--5283}.
+
+\bibitem[Ritchie et~al., 1968]{Ritchie}
+Ritchie, R., Arakawa, E., Cowan, J., and Hamm, R. (1968).
+\newblock Surface-plasmon resonance effect in grating diffraction.
+\newblock {\em Physical Review Letters}, 21:1530--1533.
+
+\bibitem[Rozin et~al., 2015]{Rozin}
+Rozin, M., Rosen, D., Dill, T., and Tao, A. (2015).
+\newblock Colloidal metasurfaces displaying near-ideal and tunable light
+  absorbance in the infrared.
+\newblock {\em Nature Communications}, 6(5):7325.
+
+\bibitem[Ruffner and Grier, 2012]{Ruffner2012}
+Ruffner, D.~B. and Grier, D.~G. (2012).
+\newblock Optical conveyors: A class of active tractor beams.
+\newblock {\em Physical Review Letters}, 109:163903.
+
+\bibitem[Saija et~al., 2009]{Saija2009}
+Saija, R., Denti, P., Borghese, F., Marag\`{o}, O.~M., and Iat\`{i}, M.~A.
+  (2009).
+\newblock Optical trapping calculations for metal nanoparticles. {C}omparison
+  with experimental data for {A}u and {A}g spheres.
+\newblock {\em Optics Express}, 17(12):10231--10241.
+
+\bibitem[Sambles et~al., 1991]{Sambles}
+Sambles, J.~R., Bradbery, G.~W., and Yang, F. (1991).
+\newblock Optical excitation of surface plasmons: An introduction.
+\newblock {\em Contemporary Physics}, 32(3):173--183.
+
+\bibitem[Savitzky and Golay, 1964]{Savgol}
+Savitzky, A. and Golay, M. J.~E. (1964).
+\newblock Smoothing and differentiation of data by simplified least squares
+  procedures.
+\newblock {\em Analytical Chemistry}, 36(8):1627--1639.
+
+\bibitem[Schmitt and Kumar, 1998]{Schmitt}
+Schmitt, J.~M. and Kumar, G. ({1998}).
+\newblock {Optical scattering properties of soft tissue: a discrete particle
+  model}.
+\newblock {\em {Applied Optics}}, {37}({13}):{2788--2797}.
+
+\bibitem[Schnatterly, 1969]{Schnatterly}
+Schnatterly, S.~E. (1969).
+\newblock Magnetoreflection measurements on the noble metals.
+\newblock {\em Physical Review}, 183:664--667.
+
+\bibitem[Segev et~al., 2012]{Segev}
+Segev, M., Soljacic, M., and Dudley, J.~M. ({2012}).
+\newblock {Fractal optics and beyond}.
+\newblock {\em {Nature Photonics}}, {6}({4}):{209--210}.
+
+\bibitem[Sepulveda et~al., 2010]{Sepulveda}
+Sepulveda, B., Gonzalez-Diaz, J.~B., Garcia-Martin, A., Lechuga, L.~M., and
+  Armelles, G. (2010).
+\newblock Plasmon-induced magneto-optical activity in nanosized gold disks.
+\newblock {\em Physical Review Letters}, 104(14):147401.
+
+\bibitem[Shaltout et~al., 2014]{Shaltout}
+Shaltout, A., Liu, J., Shalaev, V.~M., and Kildishev, A.~V. ({2014}).
+\newblock {Optically Active Metasurface with Non-Chiral Plasmonic
+  Nanoantennas}.
+\newblock {\em {Nano Letters}}, {14}({8}):{4426--4431}.
+
+\bibitem[Shelby et~al., 2001]{shelby:489}
+Shelby, R.~A., Smith, D.~R., Nemat-Nasser, S.~C., and Schultz, S. (2001).
+\newblock {Microwave transmission through a two-dimensional, isotropic,
+  left-handed metamaterial}.
+\newblock {\em Applied Physics Letters}, 78(4):489--491.
+
+\bibitem[Shelton et~al., 2005]{Shelton2005}
+Shelton, W., Bonin, K., and Walker, T. (2005).
+\newblock {Nonlinear motion of optically torqued nanorods}.
+\newblock {\em Physical Review E}, 71(3):036204.
+
+\bibitem[Shen, 1984]{Shen}
+Shen, Y.~R. (1984).
+\newblock {\em The Pinciples of Nonlinear Optics}.
+\newblock Wiley.
+
+\bibitem[Shvedov et~al., 2010]{Shvedov2010}
+Shvedov, V.~G., Rode, A.~V., Izdebskaya, Y.~V., Desyatnikov, A.~S.,
+  Krolikowski, W., and Kivshar, Y.~S. (2010).
+\newblock Giant optical manipulation.
+\newblock {\em Physical Review Letters}, 105:118103--118107.
+
+\bibitem[Singh et~al., 2012]{Singh}
+Singh, N.~D., Moocarme, M., Edelstein, B., Punnoose, N., and Vuong, L.~T.
+  (2012).
+\newblock Anomalously-large photo-induced magnetic response of metallic
+  nanocolloids in aqueous solution using a solar simulator.
+\newblock {\em Optics Express}, 20(17):19214--19225.
+
+\bibitem[Slepyan et~al., 2006]{PhysRevBnanotube}
+Slepyan, G.~Y., Shuba, M.~V., Maksimenko, S.~A., and Lakhtakia, A. (2006).
+\newblock Theory of optical scattering by achiral carbon nanotubes and their
+  potential as optical nanoantennas.
+\newblock {\em Physical Review B}, 73:195416.
+
+\bibitem[Soljacic et~al., 2000]{Soljacic}
+Soljacic, M., Segev, M., and Menyuk, C. ({2000}).
+\newblock {Self-similarity and fractals in soliton-supporting systems}.
+\newblock {\em {Physical Review E}}, {61}({2}):{R1048--R1051}.
+
+\bibitem[Sorensen, 2001]{Sorensen}
+Sorensen, C.~M. ({2001}).
+\newblock {Light scattering by fractal aggregates: A review}.
+\newblock {\em {Aerosol Science and Technology}}, {35}({2}):{648--687}.
+
+\bibitem[Stockman et~al., 1992]{Stockman}
+Stockman, M.~I., Shalaev, V.~M., Moskovits, M., Botet, R., and George, T.~F.
+  (1992).
+\newblock Enhanced raman scattering by fractal clusters: Scale-invariant
+  theory.
+\newblock {\em Physical Review B}, 46:2821--2830.
+
+\bibitem[Strogatz, 1994]{Strogatz}
+Strogatz, S.~H. (1994).
+\newblock {\em Nonlinear dynamics and chaos : with applications to physics,
+  biology, chemistry, and engineering}.
+\newblock Studies in nonlinearity. Westview Press, Cambridge (Mass.).
+\newblock Autre(s) tirage(s) : 2000.
+
+\bibitem[Tang et~al., 2011]{Tang}
+Tang, C.~J., Zhan, P., Cao, Z.~S., Pan, J., Chen, Z., and Wang, Z.~L. (2011).
+\newblock Magnetic field enhancement at optical frequencies through diffraction
+  coupling of magnetic plasmon resonances in metamaterials.
+\newblock {\em Physical Review B}, 83(4):041402.
+
+\bibitem[Tang et~al., 2016]{Tang2016}
+Tang, J., Xiao, Z., Xu, K., Ma, X., Liu, D., and Wang, Z. (2016).
+\newblock Cross polarization conversion based on a new chiral spiral slot
+  structure in thz region.
+\newblock {\em Optical and Quantum Electronics}, 48(2):1--11.
+
+\bibitem[Temnov et~al., 2010]{Temnov}
+Temnov, V.~V., Armelles, G., Woggon, U., Guzatov, D., Cebollada, A.,
+  Garcia-Martin, A., Garcia-Martin, J.-M., Thomay, T., Leitenstorfer, A., and
+  Bratschitsch, R. (2010).
+\newblock Active magneto-plasmonics in hybrid metal-ferromagnet structures.
+\newblock {\em Nature Photonics}, 4(2):107--111.
+
+\bibitem[Theeten and Aspnes, 1981]{Theeten:1981}
+Theeten, J.~B. and Aspnes, D.~E. (1981).
+\newblock Ellipsometry in thin film analysis.
+\newblock {\em Annual Review of Materials Science}, 11(1):97--122.
+
+\bibitem[Todorov et~al., 2009]{Todorov}
+Todorov, Y., Andrews, A.~M., Sagnes, I., Colombelli, R., Klang, P., Strasser,
+  G., and Sirtori, C. ({2009}).
+\newblock {Strong Light-Matter Coupling in Subwavelength Metal-Dielectric
+  Microcavities at Terahertz Frequencies}.
+\newblock {\em {Physical Review Letters}}, {102}({18}).
+
+\bibitem[Tong et~al., 2010]{Tong}
+Tong, L., Miljković, V.~D., and Käll, M. (2010).
+\newblock Alignment, rotation, and spinning of single plasmonic nanoparticles
+  and nanowires using polarization dependent optical forces.
+\newblock {\em Nano Letters}, 10(1):268--273.
+\newblock PMID: 20030391.
+
+\bibitem[Torrado et~al., 2010]{Torrado}
+Torrado, J.~F., Gonzalez-Diaz, J.~B., Gonzalez, M.~U., Garcia-Martin, A., and
+  Armelles, G. (2010).
+\newblock Magneto-optical effects in interacting localized and propagating
+  surface plasmon modes.
+\newblock {\em Optics Express}, 18(15):15635--15642.
+
+\bibitem[Tsai et~al., 1994]{Tsai}
+Tsai, D.~P., Kovacs, J., Wang, Z., Moskovits, M., Shalaev, V.~M., Suh, J.~S.,
+  and Botet, R. (1994).
+\newblock Photon scanning tunneling microscopy images of optical excitations of
+  fractal metal colloid clusters.
+\newblock {\em Physical Review Letters}, 72:4149--4152.
+
+\bibitem[Tsai et~al., 2014]{Tsai2014}
+Tsai, W.-Y., Huang, J.-S., and Huang, C.-B. (2014).
+\newblock {Selective trapping or rotation of isotropic dielectric
+  microparticles by optical near field in a plasmonic archimedes spiral}.
+\newblock {\em Nano Letters}, 14(2):547--552.
+
+\bibitem[Unnikrishnan et~al., 2000]{Unnikrishnan}
+Unnikrishnan, G., Joseph, J., and Singh, K. ({2000}).
+\newblock {Optical encryption by double-random phase encoding in the fractional
+  Fourier domain}.
+\newblock {\em {Optics Letters}}, {25}({12}):{887--889}.
+
+\bibitem[Urbas et~al., 2016]{Urbas2016}
+Urbas, A.~M., Jacob, Z., Negro, L.~D., Engheta, N., Boardman, A.~D., Egan, P.,
+  Khanikaev, A.~B., Menon, V., Ferrera, M., Kinsey, N., DeVault, C., Kim, J.,
+  Shalaev, V., Boltasseva, A., Valentine, J., Pfeiffer, C., Grbic, A.,
+  Narimanov, E., Zhu, L., Fan, S., Alù, A., Poutrina, E., Litchinitser, N.~M.,
+  Noginov, M.~A., MacDonald, K.~F., Plum, E., Liu, X., Nealey, P.~F., Kagan,
+  C.~R., Murray, C.~B., Pawlak, D.~A., Smolyaninov, I.~I., Smolyaninova, V.~N.,
+  and Chanda, D. (2016).
+\newblock Roadmap on optical metamaterials.
+\newblock {\em Journal of Optics}, 18(9):093005.
+
+\bibitem[van~de Hulst, 1958]{Hulst}
+van~de Hulst, H.~C. (1958).
+\newblock {\em Light scattering by small particles}.
+\newblock John Wiley \& Sons, Ltd, first edition.
+
+\bibitem[Van~Thourhout and Roels, 2010]{Thourhout2010}
+Van~Thourhout, D. and Roels, J. ({2010}).
+\newblock {Optomechanical device actuation through the optical gradient force}.
+\newblock {\em {Nature Photonics}}, {4}({4}):{211--217}.
+
+\bibitem[Velev and Bhatt, 2006]{Bhatt}
+Velev, O.~D. and Bhatt, K.~H. (2006).
+\newblock On-chip micromanipulation and assembly of colloidal particles by
+  electric fields.
+\newblock {\em Soft Matter}, 2:738--750.
+
+\bibitem[Verma et~al., 2012]{Verma2}
+Verma, R., Banerjee, V., and Senthilkumaran, P. ({2012}).
+\newblock {Redundancy in Cantor Diffractals}.
+\newblock {\em {Optics Express}}, {20}({8}):{8250--8255}.
+
+\bibitem[Verma et~al., 2013]{Verma}
+Verma, R., Sharma, M.~K., Banerjee, V., and Senthilkumaran, P. ({2013}).
+\newblock {Robustness of Cantor Diffractals}.
+\newblock {\em {Optics Express}}, {21}({7}):{7951--7956}.
+
+\bibitem[Vial et~al., 2005]{Vial}
+Vial, A., Grimault, A., Macias, D., Barchiesi, D., and de~la Chapelle, M.
+  ({2005}).
+\newblock {Improved analytical fit of gold dispersion: Application to the
+  modeling of extinction spectra with a finite-difference time-domain method}.
+\newblock {\em {Physical Review B}}, {71}({8}).
+
+\bibitem[Vuong et~al., 2010]{Vuong}
+Vuong, L.~T., Adam, A. J.~L., Brok, J.~M., Planken, P. C.~M., and Urbach, H.~P.
+  (2010).
+\newblock Electromagnetic spin-orbit interactions via scattering of
+  subwavelength apertures.
+\newblock {\em Physical Review Letters}, 104(8):083903.
+
+\bibitem[Wang and Kong, 2015]{Wang:2015}
+Wang, A.~X. and Kong, X. (2015).
+\newblock Review of recent progress of plasmonic materials and nano-structures
+  for surface-enhanced raman scattering.
+\newblock {\em Materials}, 8(6):3024.
+
+\bibitem[Weiner et~al., 1999]{Weiner1999}
+Weiner, J., Bagnato, V., Zilio, S., and Julienne, P. ({1999}).
+\newblock {Experiments and theory in cold and ultracold collisions}.
+\newblock {\em {Reviews of Modern Physics}}, {71}({1}):{1--85}.
+
+\bibitem[Wu et~al., 2016]{Wu16}
+Wu, X., Meng, Y., Wang, L., Tian, J., Dai, S., and Wen, W. (2016).
+\newblock Anisotropic metasurface with near-unity circular polarization
+  conversion.
+\newblock {\em Applied Physics Letters}, 108(18).
+
+\bibitem[Yan et~al., 2012a]{Yan2012}
+Yan, Z., Jureller, J.~E., Sweet, J., Guffey, M.~J., Pelton, M., and Scherer,
+  N.~F. (2012a).
+\newblock {Three-dimensional optical trapping and manipulation of single silver
+  nanowires}.
+\newblock {\em Nano Letters}, 12(10):5155--5161.
+
+\bibitem[Yan et~al., 2013a]{Yan2013}
+Yan, Z., Pelton, M., Vigderman, L., Zubarev, E.~R., and Scherer, N.~F. (2013a).
+\newblock {Why single-beam optical tweezers trap gold nanowires in three
+  dimensions}.
+\newblock {\em ACS Nano}, 7(10):8794--8800.
+
+\bibitem[Yan and Scherer, 2013]{Yan2013a}
+Yan, Z. and Scherer, N.~F. (2013).
+\newblock {Optical vortex induced rotation of silver nanowires}.
+\newblock {\em Journal of Physical Chemistry Letters}, 4(17):2937--2942.
+
+\bibitem[Yan et~al., 2013b]{Yan2013b}
+Yan, Z., Shah, R.~a., Chado, G., Gray, S.~K., Pelton, M., and Scherer, N.~F.
+  (2013b).
+\newblock {Guiding spatial arrangements of silver nanoparticles by optical
+  binding interactions in shaped light fields}.
+\newblock {\em ACS Nano}, 7(2):1790--1802.
+
+\bibitem[Yan et~al., 2012b]{Yan2012a}
+Yan, Z., Sweet, J., Jureller, J.~E., Guffey, M.~J., Pelton, M., and Scherer,
+  N.~F. (2012b).
+\newblock {Controlling the position and orientation of single silver nanowires
+  on a surface using structured optical fields}.
+\newblock {\em ACS Nano}, 6(9):8144--8155.
+
+\bibitem[Yang et~al., 2014]{Yang:14}
+Yang, Q., Gu, J., Wang, D., Zhang, X., Tian, Z., Ouyang, C., Singh, R., Han,
+  J., and Zhang, W. (2014).
+\newblock Efficient flat metasurface lens for terahertz imaging.
+\newblock {\em Optics Express}, 22(21):25931--25939.
+
+\bibitem[Yang et~al., 2016]{Yang16}
+Yang, S., Liu, Z., Xia, X., E, Y., Tang, C., Wang, Y., Li, J., Wang, L., and
+  Gu, C. ({2016}).
+\newblock {Excitation of ultrasharp trapped-mode resonances in mirror-symmetric
+  metamaterials}.
+\newblock {\em {Physical Review B}}, {93}({23}).
+
+\bibitem[Yannopapas, 2009]{Yannopapas}
+Yannopapas, V. ({2009}).
+\newblock {Circular dichroism in planar nonchiral plasmonic metamaterials}.
+\newblock {\em {Optics Letters}}, {34}({5}):{632--634}.
+
+\bibitem[Yu et~al., 2011]{Yu}
+Yu, N., Genevet, P., Kats, M.~A., Aieta, F., Tetienne, J.-P., Capasso, F., and
+  Gaburro, Z. ({2011}).
+\newblock {Light Propagation with Phase Discontinuities: Generalized Laws of
+  Reflection and Refraction}.
+\newblock {\em {Science}}, {334}({6054}):{333--337}.
+
+\bibitem[Zhang et~al., 2011]{Zhang2011}
+Zhang, S., Wei, H., Bao, K., H\aa{}kanson, U., Halas, N.~J., Nordlander, P.,
+  and Xu, H. (2011).
+\newblock Chiral surface plasmon polaritons on metallic nanowires.
+\newblock {\em Physical Review Letters}, 107:096801.
+
+\bibitem[Zhang et~al., 2014]{Zhang:14}
+Zhang, W., Zhu, W.~M., Chia, E. E.~M., Shen, Z.~X., Cai, H., Gu, Y.~D., Ser,
+  W., and Liu, A.~Q. (2014).
+\newblock A pseudo-planar metasurface for a polarization rotator.
+\newblock {\em Optics Express}, 22(9):10446--10454.
+
+\bibitem[Zhao and Alu, 2011]{Zhao}
+Zhao, Y. and Alu, A. ({2011}).
+\newblock {Manipulating light polarization with ultrathin plasmonic
+  metasurfaces}.
+\newblock {\em {Physical Review B}}, {84}({20}).
+
+\end{thebibliography}

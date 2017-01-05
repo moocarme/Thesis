@@ -1,0 +1,38 @@
+
+\section{Matlab function code to create Sierpinski carpet hologram}
+\lstset{language = Matlab}
+\begin{lstlisting}
+function carpetHolo = Sierpinski(fracOrder);
+	carpetBase = ones(3); % Initialize matrix
+	carpetBase(2,2) = 0;
+	% Zero middle element
+	if fracOrder==0;
+		% For zero order case
+		carpetHolo = carpetBase;
+	else
+		% For higher order cases
+		carpetHolo= kron(carpetBase,carpetBase);
+		% For loop iterates the Kronecker tensor product
+		for i = 1:fracOrder-1
+			carpetHolo = kron(carpetHolo,carpetBase);
+		end
+	end
+end
+\end{lstlisting}
+
+\section{Matlab function code to recreate Sierpinski carpet hologram}
+
+\begin{lstlisting}
+function recon = reconFun(Threshold,carpetBaseLength,carpetHolo)
+	% Ratio of length of hologram
+	normLength = length(carpetHolo)/carpetBaseLength; 
+	
+	% Convert to array of cells
+	cellHolo = mat2cell(carpetHolo,repmat(normLength,1,...
+	carpetBaseLength),repmat(normLength,1,carpetBaseLength));
+	
+	% Calculate mean, determine if above threshold value, and plot
+	pcolor(double(cell2mat(cellfun(@mean2, cellHolo))>Threshold));
+end
+\end{lstlisting}
+

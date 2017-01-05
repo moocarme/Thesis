@@ -1,0 +1,132 @@
+\nomenclatureentry{A$\omega_p$@[{$\omega_p$}]\begingroup Plasma Frequency\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$n_e$@[{$n_e$}]\begingroup Free Carrier Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$e$@[{$e$}]\begingroup Electric Charge of Electron\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$m_e$@[{$m_e$}]\begingroup Reduced Mass\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\epsilon_0$@[{$\epsilon_0$}]\begingroup Permittivity of Free Space\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$r$@[{$r$}]\begingroup Displacement\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\gamma$@[{$\gamma$}]\begingroup Decay/Damping rate\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$E$@[{$E$}]\begingroup Electric Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$E_m$@[{$E_m$}]\begingroup Electric Field in Metal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$E_d$@[{$E_d$}]\begingroup Electric Field in Dielectric\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$H$@[{$H$}]\begingroup Auxiliary Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$H_m$@[{$H_m$}]\begingroup Auxiliary Field in Metal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$H_d$@[{$H_d$}]\begingroup Auxiliary Field in Dielectric\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\partial_x$@[{$\partial_x$}]\begingroup Partial Derivative with respect to x\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\nabla$@[{$\nabla$}]\begingroup Differential Operator\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$H$@[{$H$}]\begingroup Auxiliary Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$m$@[{$m$}]\begingroup Mass\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\phi$@[{$\phi$}]\begingroup Phase\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\omega_0$@[{$\omega_0$}]\begingroup Angular Frequency Associated with Harmonic Restorative Force\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$P$@[{$P$}]\begingroup Polarization Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$m$@[{$m$}]\begingroup Mass\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$D$@[{$D$}]\begingroup Displacement Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\epsilon$@[{$\epsilon$}]\begingroup Material Permittivity\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$c$@[{$c$}]\begingroup Speed of Light\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$k$@[{$k$}]\begingroup Wave-Vector\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$k_0$@[{$k_0$}]\begingroup Wave-Vector in Free Space\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$k_d$@[{$k_d$}]\begingroup Wave-Vector in Dielectric\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$k_m$@[{$k_m$}]\begingroup Wave-Vector in Metal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$k_{SP}$@[{$k_{SP}$}]\begingroup Wave-Vector of Surface Plasmon\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\epsilon_d$@[{$\epsilon_d$}]\begingroup Permittivity of Dielectric\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\epsilon_m$@[{$\epsilon_m$}]\begingroup Permittivity of Metal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{ASPP@[{SPP}]\begingroup Surface Plasmon Polariton\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{ALSP@[{LSP}]\begingroup Localized Surface Plasmon\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$\chi$@[{$\chi$}]\begingroup Material Susceptibility\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{ADC@[{DC}]\begingroup Direct Current\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{A$t$@[{$t$}]\begingroup Time\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$q$@[{$q$}]\begingroup Electric Charge\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$m*$@[{$m*$}]\begingroup Reduced Mass\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{BMO@[{MO}]\begingroup Magneto Optical\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{BDC@[{DC}]\begingroup Direct Current\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{BRHCP@[{RHCP}]\begingroup Right-Handed Circular-Polarization\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{BLHCP@[{LHCP}]\begingroup Left-Handed Circular-Polarization\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$j$@[{$j$}]\begingroup Current Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$r$@[{$r$}]\begingroup Spatial Coordinate\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$E$@[{$E$}]\begingroup Electric Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$B$@[{$B$}]\begingroup Magnetic Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$t$@[{$t$}]\begingroup Time\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$k$@[{$k$}]\begingroup Restoring Force Constant\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\gamma$@[{$\gamma$}]\begingroup Decay/Damping Rate\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\omega$@[{$\omega$}]\begingroup Angular Frequency\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\omega_p$@[{$\omega_p$}]\begingroup Plasma Frequency\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\omega_c$@[{$\omega_c$}]\begingroup Cyclotron Frequency\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\omega_0$@[{$\omega_0$}]\begingroup Angular Frequency Associated with Harmonic Restorative Force\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\eta$@[{$\eta$}]\begingroup Electron Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\epsilon$@[{$\epsilon$}]\begingroup Material Permittivity\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\epsilon_0$@[{$\epsilon_0$}]\begingroup Permittivity of Free Space\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\langle\rangle$@[{$\langle\rangle$}]\begingroup Time-Average\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$\sigma$@[{$\sigma$}]\begingroup Material Conductivity\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{B$M$@[{$M$}]\begingroup Magnetization\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{CUV@[{UV}]\begingroup Ultra-Violet\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$k$@[{$k$}]\begingroup Wave-Vector\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$J_m$@[{$J_m$}]\begingroup Bessel Function of the m$^{th}$ Kind\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$H_m$@[{$H_m$}]\begingroup Hankel Function of the m$^{th}$ Kind\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$\epsilon$@[{$\epsilon$}]\begingroup Dielectric Constant\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$E$@[{$E$}]\begingroup Electric Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$B$@[{$B$}]\begingroup Magnetic Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$f$@[{$f$}]\begingroup Lorentz Force\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$q$@[{$q$}]\begingroup Electric Charge\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$v$@[{$v$}]\begingroup Velocity\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$\rho$@[{$\rho$}]\begingroup Charge Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$c.c.$@[{$c.c.$}]\begingroup Complex Conjugate\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$\epsilon_0$@[{$\epsilon_0$}]\begingroup Permittivity of Free Space\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$J$@[{$J$}]\begingroup Current Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$T$@[{$T$}]\begingroup Torque\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$P$@[{$P$}]\begingroup Polarization Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$\lambda$@[{$\lambda$}]\begingroup Wavelength\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$A$@[{$A$}]\begingroup Torque Vectors in Spherical Coordinate System\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{C$P$@[{$P$}]\begingroup Polarization Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{D$k$@[{$k$}]\begingroup Wave-Vector\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{D$n$@[{$n$}]\begingroup Fractal Order\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{D$\delta$@[{$\delta$}]\begingroup Delta Function\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{D$T$@[{$T$}]\begingroup Transmission Function\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{D$r$@[{$r$}]\begingroup Relative Scaling Factor\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{D$i_c$@[{$i_c$}]\begingroup $\sqrt{-1}$\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{D$\lambda$@[{$\lambda$}]\begingroup Wavelength\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DPSNR@[{PSNR}]\begingroup Peak Signal-to-Noise Ratio\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DSLM@[{SLM}]\begingroup Spatial Light Modulator\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DFS@[{FS}]\begingroup Fractalized Signal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DOS@[{OS}]\begingroup Original Signal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DDS@[{DS}]\begingroup Diffractal Signal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DRFS@[{RFS}]\begingroup Reconstructed Fourier-Transformed Signal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DBDS@[{BDS}]\begingroup Blocked Diffractal Signal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{DROS@[{ROS}]\begingroup Reconstructed Original Signal\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\lambda$@[{$\lambda$}]\begingroup Wavelength\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\theta_s$@[{$\theta_s$}]\begingroup Aperture Tilt\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$k_e$@[{$k_e$}]\begingroup Coulombs Constant\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\epsilon_0$@[{$\epsilon_0$}]\begingroup Permittivity of Free Space\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$r$@[{$r$}]\begingroup Spatial Coordinate\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$q$@[{$q$}]\begingroup Electric Charge\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$R$@[{$R$}]\begingroup Lattice Distance\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$F$@[{$F$}]\begingroup Force\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\omega$@[{$\omega$}]\begingroup Angular Frequency\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$c$@[{$c$}]\begingroup Speed of Light\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\beta$@[{$\beta$}]\begingroup Ratio of Speed to the Speed of Light\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$M$@[{$M$}]\begingroup Mass\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\omega_0$@[{$\omega_0$}]\begingroup Angular Frequency Associated with Harmonic Restorative Force\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\gamma$@[{$\gamma$}]\begingroup Damping Rate\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\delta$@[{$\delta$}]\begingroup Perturbation Parameter\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$F^{int}$@[{$F^{int}$}]\begingroup Interaction Force\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$t$@[{$t$}]\begingroup Time\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$E$@[{$E$}]\begingroup Electric Field\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$x_h/y_h$@[{$x_h/y_h$}]\begingroup Homogeneous Solution in the $x/y$ direction\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$k$@[{$k$}]\begingroup Wave-Vector\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\langle\rangle$@[{$\langle\rangle$}]\begingroup Time-Average\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$a$@[{$a$}]\begingroup Metasurface Periodicity\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\psi$@[{$\psi$}]\begingroup Azimuthal Component of Polarization\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\chi$@[{$\chi$}]\begingroup Elliptical Component of Polarization\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{EOR@[{OR}]\begingroup Optical Rotation\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{ECD@[{CD}]\begingroup Circular Dichroism\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{EOA@[{OA}]\begingroup Optical Activity\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$P$@[{$P$}]\begingroup Polarization Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$N_0$@[{$N_0$}]\begingroup Free Charge Carrier Density\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\epsilon$@[{$\epsilon$}]\begingroup Material Permittivity\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$\Gamma$@[{$\Gamma$}]\begingroup Non-Locality Parameter\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$T_{RCP}$@[{$T_{RCP}$}]\begingroup Transmission of Right Circular Polarization\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$T_{LCP}$@[{$T_{LCP}$}]\begingroup Transmission of Left Circular Polarization\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$S$@[{$S$}]\begingroup Screening Factor\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{EZEP@[{ZEP}]\begingroup High Performance Electron Beam Resist\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$MR$@[{$MR$}]\begingroup Milling Rate\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{E$L$@[{$L$}]\begingroup Layer Thickness\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{EPMMA@[{PMMA}]\begingroup Electron Beam Resist\nomeqref {0}|nompageref}{xix}
+\nomenclatureentry{ESEM@[{SEM}]\begingroup Scanning Electron Microscope\nomeqref {0}|nompageref}{xix}

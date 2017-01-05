@@ -1,0 +1,216 @@
+\section{Overview of the dissertation}
+This dissertation covers a variety of ways that nanophotonics can harness the physics of light, from manipulating optical forces at the nanoscale, to developing efficient ways to encode information in the architecture of light. The focus of the thesis will be to understand the optical forces that are generated on nanoparticles and demonstrate the applications of such forces. 
+
+As of recent, there has been a lot of interest in the development of 3D (metamaterials) and 2D (metasurface) geometries that possess optical properties not found in nature. While there has been much advancement in the field, such as the fabrication of negative index materials [\cite{Padilla:2006, Dolling:07, shelby:489}], perfect lenses [\cite{Khorasaninejad:2016, Yang:14, Khorasaninejad1190}], and materials with permittivity close to zero [\cite{JPark:2015c, Alu:07}], many of these materials are limited to a small sample area and possess other pitfalls of top-down processing. Complete understanding of the optical forces generated on metallic nanoparticles leads the way to facilitate bottom-up processing of metasurfaces and metamaterials suitable for large-scale production.
+
+In chapter 2 of this thesis, the development of magneto-optical responses in plasmonic materials, that explores the magnetization of nanoparticles via the illumination of circularly-polarized light. This phenomenon offers a new degree of control over the Lorentz force exerted on plasmonic nanoparticles. As described in the third chapter, Lorentz forces influence the motion of anisotropic nanoparticles, namely nanowires, illuminated at oblique incidences, and the non-intuitive motion subsequently results. The following chapter (chapter 4) illustrates an efficient way to spatially encode information with fractal architecture. Finally, in chapter 5 polarization properties are explored for a metasurface composed of non-chiral sub-structures, the phenomenon of which is derived from the Lorentz force that occurs between substructures that are measured in the polarization properties as light passes through the material.
+
+Ultimately, it is hoped that this work furthers the research on how metasurfaces and metamaterials are designed, fabricated, and applied.
+%\section{Light}
+
+%\section{}
+%The study of optical phenomena related to the electromagnetic response of metals,
+%which is the topic of this work, led to the development of an emerging and fast
+%growing research field called plasmonics.
+\section{Light and Polarization}
+Electromagnetic waves are derived from non-zero solutions of Maxwell’s equations in vacuum in absence of electric charges [\cite{jackson, Landau}]. Polarization refers to the direction of the electromagnetic field vectors in space. Like color or intensity, the polarization of an electromagnetic wave is a fundamental property. The polarization in the most general sense, can be described by elliptical motion, relating to the path the electric field vector follows as the wave propagates. There are many light-matter interactions that depend on the incident polarization of the incident light, for example the strength of reflections, absorption or scattering [\cite{Hulst}]. Following conventions, we can consider the electric field of an plane electromagnetic wave travelling in the $z$-direction in Cartesian coordinates ($x,y,z$):
+\begin{equation}
+\mathbf{E}(t, z) =\mathbf{E}_0 \cos(\omega t-kz-\phi),
+\end{equation}where $\mathbf{E}_0$ is the magnitude of the electric field in the $x-y$ plane, $\omega$ is the angular frequency, $t$ refers to time, $k$ is the wave-vector, and $\phi$ denotes some arbitrary phase. The electric field vector is perpendicular to the direction of propagation, $z$, so we can decompose the electric fields into $x$ and $y$ components:
+\begin{equation}
+\begin{aligned}
+E_x(t) = E_{x0} \cos(\omega t-kz-\phi_x),\\
+E_y(t) = E_{y0} \cos(\omega t-kz-\phi_y),\\
+\end{aligned}
+\end{equation}
+where $\phi_x$ and $\phi_y$ refer to the phase associated with the electric field in their respective direction. Special cases of elliptical polarization occur when $\phi_x = \phi_y$, referring to linear polarization, and $|\phi_x-\phi_y| = \pi/2$ refers to circular polarization.
+
+%The use of the polarization to achieve additional functionality that cannot be realized with any other optical technology is an exciting prospect to be exploited. 
+Traditionally, the polarization of light is manipulated through interaction with uniaxial or biaxial materials, such as calcite or quartz. However, if the light-matter interaction is understood fundamentally at the nanoscale, polarization-dependent interactions can be artificially crafted through the precise design of a structure. 
+
+\section{Surface plasmon polaritons}
+
+Plasmonics [\cite{Barnes}] – named after the electron density waves that propagate along a metal-dielectric interface is a blossoming sub-field of optics. In particular there has been a tremendous amount of progress in the fabrication and manipulation methods of nanometer-sized objects in the last few decades that has allowed us to make significant leaps and bounds in the field of optics. %Plasmonic excitations need specific environmental conditions  for excitation by photons including a polarization-dependence of the incident photons
+
+Certain promises that the sub-field of plasmonics offers are responsible for the surge of interest in the research field, for example a new generation of ultra-fast computing [\cite{Atwater07}], new possibilities to treat cancer and HIV/AIDS [\cite{Kumar2011}], topological insulators [\cite{Deshko16}], or the ability fabricate negative-refraction materials and perfect lenses [\cite{Urbas2016}]. This could be made possible because plasmonics bridges the microscopic with the nanoscopic by confining light on sub-wavelength volumes. Plasmonic structures are typically composed of metallic nanostructures or thin-films interfacing with a dielectric medium, in particular noble metals are employed as their high electron density causes plasmonic excitation to occur in the visible regime.
+
+\subsection{Coupling to plasmons}
+
+In the visible portion of the electromagnetic spectrum, the frequency of electromagnetic waves coincide with the natural oscillation of free electrons in noble metals; when polarization-specific light is incident on noble metals the free electrons oscillate in resonance. The plasma frequency of the metal is given by the relation:
+\begin{equation}
+\omega_p = \sqrt{\frac{n^2e}{m\epsilon_0}}
+\end{equation}
+where $n$ is the free carrier density in the material, $e$ is the charge of an electron, $m$ is the effective mass of the electrons, and $\epsilon_0$ is the permittivity of free space.\\
+If one treats the conducting electrons as a free electron gas the equations of motion can be used to study the displacement as a function of time, $r(t)$, in the presence of an electric field, $E$. A velocity dependent damping force, $\gamma$, and a spring-like restoring force with resonant frequency $\omega_0$ are also included:
+\begin{equation}
+m\ddot{r}+m\gamma\dot{r}-m\omega_0^2r = -eE
+\label{EqMot}
+\end{equation}
+Here, dot formalism refers to time derivatives, such that $\dot{r} = \frac{dr}{dt}$ and $\ddot{r} = \frac{d^2r}{dt^2}$. Assuming a time-harmonic response of the motion, $r(t) = r_0e^{-i\omega t}$, and a time-harmonic driving field of the same frequency, $E(t) = E_0e^{-i\omega t}$. This leads to a Lorentz-oscillator form of the motion of the charge particle [\cite{Vial}]:
+\begin{equation}
+r(t) = \frac{r_0e}{m(\omega^2-\omega_0^2+i\gamma\omega)}E(t).
+\end{equation}
+The displacement of the charge particle leads to changes in the macroscopic polarization by the relation $P = -ner$.
+\begin{equation}
+ P(t) = -\frac{ne^2}{m(\omega^2-\omega_0^2+i\gamma\omega)}E,
+ \end{equation} 
+where the effective permittivity, $\epsilon$, of the material results from the relation linking the macroscopic fields with the polarization:
+\begin{equation}
+\begin{split}
+D &= \epsilon_0 E+P,\\
+D &= \epsilon_0 \epsilon E,
+\end{split}
+\end{equation}
+where $D$ is the displacement field such that
+\begin{equation}
+D = \epsilon_0(1-\frac{\omega_p^2}{\omega^2-\omega_0^2+i\gamma\omega})E.
+\end{equation}
+The frequency-dependent relative permittivity of the material becomes 
+\begin{equation}
+\epsilon(\omega) = 1-\frac{\omega_p^2}{\omega^2-\omega_0^2+i\gamma\omega}
+\end{equation}
+The real and imaginary components of the complex dielectric function $\epsilon(\omega) = \epsilon_r(\omega) +i\epsilon_i(\omega)$ are defined as follows:
+\begin{equation}
+\begin{split}
+\epsilon_r(\omega) &= 1-\frac{\omega_p^2}{\omega^2-\omega_0^2+\gamma^2}\\
+\epsilon_i(\omega) &= \frac{\omega_p^2\gamma}{\omega(\omega^2-\omega_0^2+\gamma^2)}\\
+\end{split}
+\label{eps_m}
+\end{equation}
+The modified dielectric constant gives rise to a number of interesting properties that include a modification to the refractive index and conductivity of the material.
+
+The dispersion relation for a plasma is given by the relation $\omega^2 = \omega_p^2+c^2k^2$ which results in an asymptotically linear behaviour. Figure~\ref{dispRelation} shows an example of the dispersion relation of aluminium.
+\begin{figure}[b!]
+\centering
+\includegraphics[width=0.75\textwidth]{dispRelation.pdf}
+\caption{Dispersion relation of surface plasmon modes in aluminium with water ($\epsilon_d=1.77$) as the surrounding dielectric. Dashed line represents the light line.}
+\label{dispRelation}
+\end{figure}
+
+Surface plasmon modes are oscillations of plasma, their properties can be derived from Maxwell's equations. Interestingly, when these equations are solved with the appropriate boundary conditions between a noble metal and a dielectric the surface plasmon mode produced can have a larger momentum than the free-space photon that produced it $(k_{SP}>k_0)$, where the frequency-dependent surface plasmon wave-vector is given by the relation [\cite{Sambles}]:
+\begin{equation}
+k_{SP} = k_0\sqrt{\frac{\epsilon_d\epsilon_m}{\epsilon_d+\epsilon_m}}
+\label{ksp}
+\end{equation}
+where $\epsilon_d$ is the dielectric constant of the surrounding dielectric and $\epsilon_m$ is the dielectric constant of the metal calculated from Eq.~\ref{eps_m}. A detailed derivation of Eq.~\ref{ksp} is included in Section~\ref{deriv}. This leads to a dispersion relation as seen in Fig.~\ref{dispRelation}. The high wave vectors of surface plasmons lead to greatly-enhanced light-matter interactions [\cite{Todorov}].
+
+In general mode-matching conditions are satisfied by either using a prism, or other dielectric with permittivity $\>$1, to couple light at the interface [\cite{Kretschmann}], through defects on the surface [\cite{Hecht}], or via diffraction with periodic surface structures such as gratings [\cite{Ritchie}].
+
+Surface plasmons are known by two kinds, surface plasmon polaritons (SPPs) and localized surface plasmons (LSPs) [\cite{MaierBook}]. SPPs are composed of an electron density wave (plasmon part) coupled to a light wave (polariton part) and travel along the metal-dielectric interface. The dispersion relation dictates the wavelength  of the SPP, the coupling of light to the SPP results in a reduction of the free-space wavelength that is beneficial for electric field confinement. SPPs are commonly excited by 2D periodic grating structures as the periodic structure is able to provide the necessary in-plane wave-vector matching conditions. LSP resonances are a localized resonances of the charge density around nanostructures smaller than the wavelength of light. The resonance is highly dependent on the size, shape, material and surrounding environment of the nanostructure [\cite{Link1}], making them excellent candidates for sensors, in which small changes in environmental conditions are to be detected.
+
+\subsection{Derivation of the surface plasmon dispersion}
+\label{deriv}
+
+The surface plasmon dispersion can be derived from first principles as follows. First, a TM excitation wave is considered travelling in the $x-z$ plane incident on a metal dielectric interface at $z=0$, in which $E_y = 0$, $H_x = H_z = 0$, where $E$ and $H$ represent the electric and magnetic fields respectively and subscripts denote the relative direction. From this the electric and magnetic fields in the metal and dielectric can be written:
+\begin{equation}
+\begin{pmatrix}
+E_{xd} \\
+0 \\
+E_{zd}
+\end{pmatrix} \exp[i(k_{xd}+k_{zd}-\omega t)],
+\begin{pmatrix}
+0\\
+H_{yd} \\
+0
+\end{pmatrix} \exp[i(k_{xd}+k_{zd}-\omega t)];
+\end{equation}
+\begin{equation}
+\begin{pmatrix}
+E_{xm} \\
+0 \\
+E_{zm}
+\end{pmatrix} \exp[i(k_{xm}+k_{zm}-\omega t)],
+\begin{pmatrix}
+0\\
+H_{ym} \\
+0
+\end{pmatrix} \exp[i(k_{xm}+k_{zm}-\omega t)];
+\end{equation}
+where $k$ is the wave-vector, $\omega$ is the angular velocity and $t$ refers to time. The boundary conditions at the metal-dielectric interface are as follows:
+\begin{equation}
+\begin{split}
+\epsilon_mE_{zm} &= \epsilon_dE_{zd}\\
+E_{xm} &= E_{xd}\\
+H_{ym} &= H_{yd}
+\end{split}
+\end{equation}
+where $\epsilon$ refers to the dielectric constant. The last of the two boundary conditions lead to the equivalence of in-plane wave-vector, $k_x$:
+\begin{equation}
+k_{xm} = k_{xd}
+\end{equation}
+Solving Maxwell's equations, $\nabla\times \mathbf{H} = \frac{\epsilon}{c}\partial_t\mathbf{E}$:
+\begin{equation}
+\begin{pmatrix}\partial_x\\\partial_y\\\partial_z\end{pmatrix}\times
+\begin{pmatrix}0\\H_y\\0\end{pmatrix} = \frac{\epsilon}{c}\partial_t
+\begin{pmatrix}E_x\\0\\E_z\end{pmatrix}
+\end{equation}
+\begin{equation}
+\begin{pmatrix}-\partial_zH_y\\0\\\partial_xH_y\end{pmatrix}
+= \frac{\epsilon\omega}{c}
+\begin{pmatrix}E_x\\0\\E_z\end{pmatrix}
+\end{equation}
+\begin{equation}
+\begin{split}
+(I): -k_{zm}H_ym &= \frac{\epsilon_m\omega}{c}E_xm \\
+(II): k_{zd}H_yd &= \frac{\epsilon_d\omega}{c}E_xd \\
+(I)/(II): \frac{k_{zm}}{k_{zd}}\frac{H_{ym}}{H_{yd}} &=-\frac{\epsilon_m}{\epsilon_d}\frac{E_{xm}}{E_{xd}},
+\end{split}
+\end{equation}
+where region $(I)$ represents the metal and region $(II)$ represents the dielectric. Using the boundary condition $E_{xm} = E_{xd}$ and $H_{ym} = H_{yd}$ and the general relation $k_x^2+k_y^2+k_z^2 = k^2 = \epsilon\frac{\omega^2}{c^2}$
+The relations for the in and out-of-plane vectors are obtained:
+\begin{equation}
+\begin{split}
+k_x^2 &= \frac{\omega^2}{c^2}\frac{\epsilon_m\epsilon_d}{\epsilon_m+\epsilon_d}\\
+k_zm^2 &= \frac{\omega^2}{c^2}\frac{\epsilon_m}{\epsilon_m+\epsilon_d}\\
+k_zd^2 &= \frac{\omega^2}{c^2}\frac{\epsilon_d}{\epsilon_m+\epsilon_d}\\
+\end{split}
+\end{equation}
+\begin{figure}[t!]
+\centering
+\includegraphics[width=0.95\textwidth]{SPP.png}
+\caption{Surface plasmon polariton at a dielectric-metal interface.}
+\end{figure}
+%https://sites.google.com/site/caltechhowardlee/Research
+
+\subsection{Nonlinear plasmonics}
+\par Nonlinear effects are governed by photon-photon interactions in materials, and thus, are generally weak. The scattering and absorption cross-sections of plasmonic nanoparticles are much greater than their geometrical cross-sections which lead to large local field enhancements around the the nanostructures to enable nonlinear effects to occur. Due to high local field enhancement plasmonic excitations has enabled nonlinear phenomenon such as surface-enhanced Raman scattering [\cite{Nie}], second harmonic generation [\cite{Canfield}], and enhanced magneto-optical effects [\cite{Moocarme2014,Belotelov}]. A material's response to an electric field, $E$, is governed by the material polarization $P$ [\cite{Kauranen}]:
+\begin{equation}
+P = \epsilon_0\big[\chi^{(1)}E+\chi^{(2)}E^2+\chi^{(3)}E^3+\ldots\big]
+\label{Pol}
+\end{equation}
+where $\chi^{(n)}$ is the $n$-th order susceptibility of the material [\cite{Boyd}]. In general the lower-order terms of Eq. \ref{Pol} dominate, however, in the presence of high electric fields, such as the fields generated by plasmonic resonances, the higher-order terms become non-negligible. The first order responses consistent with the $\chi^{(1)}$ term such as scattering and absorption have been studied for centuries and are well understood [\cite{Mie, Hulst}]. Optical responses of materials are less understood in the presence of strong electrics fields,  where nonlinear effects need to be considered. Frequencies of radiation different from the incident will be produced due to the $E^n$ term when $n\neq 1$. Moreover, these new frequencies may interact with the incident field that further influence the nonlinear fields produced. Sum- and difference-frequency generation are a result of the nonlinear response; an example of sum-frequency generation is two incident photons with the same frequency interact in the second order and produce one photon with double the frequency [\cite{Canfield}].
+
+For a frequency $\omega$, first order responses vary as $\Re[e^{-i\omega t}]$; second order responses vary as $\Re[e^{-i\omega t}]^2 = \frac{1}{2}(1+\Re[e^{-2i\omega t}])$, where $\Re$ denotes the real part. This is where the similarity between the second order responses that oscillate $\propto 2\omega$ and the non-oscillating rectification responses are seen [\cite{Shen}]. To this end, DC responses will have the same magnitude  as the second harmonic, $\cos(2\omega t)$, term. It is these DC responses that are responsible for the Lorentz forces studied in this thesis. DC responses have nonzero time-averaged value where time-harmonic terms are zero, that allow DC responses to be easily measurable over their second-harmonic oscillating counterpart, especially at visible frequencies.
+
+\section{Radiation and polarization forces}
+The DC force on a particle in the presence of electromagnetic fields can be determined from the Lorentz force, $\mathbf{F}$ [\cite{Gordon}]:
+\begin{equation}
+\mathbf{F} = (\mathbf{p}\cdot\nabla)\mathbf{E}+\frac{1}{c}\frac{d\mathbf{p}}{dt}\times \mathbf{B},
+\label{force1}
+\end{equation}
+where $\mathbf{p}$ is the dipole moment of the atom, $c$ is the speed of light, $\mathbf{E}$ is the electric field and $\mathbf{B}$ is the magnetic. The electric, magnetic field, and dipole moment vary time-harmonically such that $\mathbf{E} = \Re[\mathbf{E_0}e^{-i\omega t}]$, $\mathbf{B} = \Re[\mathbf{B_0}e^{-i\omega t}]$, $\mathbf{p} = \Re[\mathbf{p_0}e^{-i\omega t}]$. The time-average of the total force can be written as [\cite{Chaumet}]:
+\begin{equation}
+\langle \mathbf{F}\rangle = \frac{1}{4T}\int_{-T/2}^{T/2}\big[(\mathbf{p}+\mathbf{p}^*)\cdot\nabla(\mathbf{E}+\mathbf{E}^*)+\frac{1}{c}(\dot{\mathbf{p}}+\dot{\mathbf{p}}^*)\times(\mathbf{B}+\mathbf{B}^*)\big]dt,
+\label{timeAv}
+\end{equation}
+where $\dot{\mathbf{p}} = d\mathbf{p}/dt$. Performing the integral of Eq.~\ref{timeAv} for the $i$th Cartesian component the time averaged force becomes:
+\begin{equation}
+\langle F^i\rangle = \frac{1}{2}\big[p_{0j}\partial^j(E_0^i)^*+\frac{1}{c}\epsilon^{ijk}\dot{p_{0j}}(B_{0k})^*\big],
+\label{timeAv2}
+\end{equation}
+where $\epsilon^{ijk}$ is the Levi-Cevita symbol. The dipole moment can be written as a reaction to the electric field $\mathbf{p}=\alpha \mathbf{E}$, and using the Maxwell equation:
+\begin{equation}
+\nabla\times \mathbf{E} = \frac{1}{c}\frac{\partial \mathbf{B}}{\partial t} = \frac{-i\omega}{c}\mathbf{B}
+\end{equation}
+Equation \ref{timeAv2} then becomes:
+\begin{equation}
+\langle F^i\rangle =\frac{1}{2}\Re\big[\alpha[E_{0j}\partial^j(E^i_0)^*+\epsilon^{ijk}\epsilon_{klm}E_{0j}\partial^l(E_0^m)^*]\big]
+\end{equation}
+Using the relation between Levi-Cevita notation $\epsilon^{ijk}\epsilon_{klm} = \delta^i_l\delta^j_m-\delta_m^i\delta_l^j$ the time-averaged DC force can be written as:
+\begin{equation}
+\langle F^i\rangle = \frac{1}{2}\Re[\alpha E_{0j}\partial^i(E_0^j)^*]
+\end{equation}
+\begin{equation}
+\langle \mathbf{F}\rangle = \frac{1}{2}\Re[\alpha \sum_i E_i\nabla E_i^*]
+\end{equation}
+Resulting in a nonzero DC force in terms of an oscillating electromagnetic field.

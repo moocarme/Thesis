@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Dissertation.aux
+A level-1 auxiliary file: Title_page.aux
+A level-1 auxiliary file: Copyright_page.aux
+A level-1 auxiliary file: Approval_page.aux
+A level-1 auxiliary file: Abstract.aux
+A level-1 auxiliary file: Acknowledgments.aux
+The style file: apalike.bst
+Database file #1: ../refs.bib
+Warning--to sort, need author or key in BEAMER
+You've used 191 entries,
+            1935 wiz_defined-function locations,
+            1725 strings with 38013 characters,
+and the built_in function-call counts, 85507 in all, are:
+= -- 8078
+> -- 4288
+< -- 76
++ -- 1519
+- -- 1499
+* -- 8053
+:= -- 14993
+add.period$ -- 586
+call.type$ -- 191
+change.case$ -- 1695
+chr.to.int$ -- 185
+cite$ -- 193
+duplicate$ -- 2682
+empty$ -- 5642
+format.name$ -- 1767
+if$ -- 16465
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 201
+newline$ -- 969
+num.names$ -- 572
+pop$ -- 1317
+preamble$ -- 2
+purify$ -- 1704
+quote$ -- 0
+skip$ -- 2007
+stack$ -- 0
+substring$ -- 6392
+swap$ -- 220
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1118
+warning$ -- 1
+while$ -- 576
+width$ -- 0
+write$ -- 2503
+(There was 1 warning)
