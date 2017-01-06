@@ -34,42 +34,51 @@ Plasmonics [\cite{Barnes}] – named after the electron density waves that propa
 
 Certain promises that the sub-field of plasmonics offers are responsible for the surge of interest in the research field, for example a new generation of ultra-fast computing [\cite{Atwater07}], new possibilities to treat cancer and HIV/AIDS [\cite{Kumar2011}], topological insulators [\cite{Deshko16}], or the ability fabricate negative-refraction materials and perfect lenses [\cite{Urbas2016}]. This could be made possible because plasmonics bridges the microscopic with the nanoscopic by confining light on sub-wavelength volumes. Plasmonic structures are typically composed of metallic nanostructures or thin-films interfacing with a dielectric medium, in particular noble metals are employed as their high electron density causes plasmonic excitation to occur in the visible regime.
 
-\subsection{Coupling to plasmons}
+\subsection{The Drude Model}
 
-In the visible portion of the electromagnetic spectrum, the frequency of electromagnetic waves coincide with the natural oscillation of free electrons in noble metals; when polarization-specific light is incident on noble metals the free electrons oscillate in resonance. The plasma frequency of the metal is given by the relation:
+The Drude model [\cite{Drude:00}] is one intuitive way to represent the excitation of plasmons, that treats the motion of electrons as a free electron gas that oscillates in response to an external electromagnetic field with a characteristic damping rate, $\gamma$. The equation of motion can be written as:
 \begin{equation}
-\omega_p = \sqrt{\frac{n^2e}{m\epsilon_0}}
+m\ddot{\mathbf{r}}+m\gamma\dot{\mathbf{r}} = -e\mathbf{E},
+\label{drude_eq1}
 \end{equation}
-where $n$ is the free carrier density in the material, $e$ is the charge of an electron, $m$ is the effective mass of the electrons, and $\epsilon_0$ is the permittivity of free space.\\
-If one treats the conducting electrons as a free electron gas the equations of motion can be used to study the displacement as a function of time, $r(t)$, in the presence of an electric field, $E$. A velocity dependent damping force, $\gamma$, and a spring-like restoring force with resonant frequency $\omega_0$ are also included:
+where $m$ is the mass of the electron, $\mathbf{r}$ is the spatial position vector, dot formalism refers to derivatives with respect to time, $e$ is the charge on the electron, and $\mathbf{E}$ is the driving electric field. If we assume a time-harmonic response of the motion, $r(t) = r_0e^{-i\omega t}$, and a time-harmonic driving field of the same frequency, $E(t) = E_0e^{-i\omega t}$, an ansatz for the Eq.~\ref{drude_eq1} exists:
 \begin{equation}
-m\ddot{r}+m\gamma\dot{r}-m\omega_0^2r = -eE
-\label{EqMot}
+\mathbf{r}(t) = \frac{e}{m(\omega^2+i\gamma\omega)}\mathbf{E}(t)
 \end{equation}
-Here, dot formalism refers to time derivatives, such that $\dot{r} = \frac{dr}{dt}$ and $\ddot{r} = \frac{d^2r}{dt^2}$. Assuming a time-harmonic response of the motion, $r(t) = r_0e^{-i\omega t}$, and a time-harmonic driving field of the same frequency, $E(t) = E_0e^{-i\omega t}$. This leads to a Lorentz-oscillator form of the motion of the charge particle [\cite{Vial}]:
+which describes the complex amplitude of the electron gas motion and incorporates any phase difference with the driving field. The macroscopic polarization varies from the displacement of electrons according to $\mathbf{P}=-ne\mathbf{r}$, where $n$ is the electron density of the material, such that:
 \begin{equation}
-r(t) = \frac{r_0e}{m(\omega^2-\omega_0^2+i\gamma\omega)}E(t).
+\mathbf{P} = \frac{ne^2}{m(\omega^2+i\gamma\omega)}\mathbf{E}.
 \end{equation}
-The displacement of the charge particle leads to changes in the macroscopic polarization by the relation $P = -ner$.
-\begin{equation}
- P(t) = -\frac{ne^2}{m(\omega^2-\omega_0^2+i\gamma\omega)}E,
- \end{equation} 
-where the effective permittivity, $\epsilon$, of the material results from the relation linking the macroscopic fields with the polarization:
+Inserting this relation for the macroscopic polarization density into the relation for displacement field, $\mathbf{D}$ and electric field
 \begin{equation}
 \begin{split}
 D &= \epsilon_0 E+P,\\
-D &= \epsilon_0 \epsilon E,
+D &= \epsilon_0 \epsilon E.
 \end{split}
 \end{equation}
-where $D$ is the displacement field such that
+The relation for the displacement field then becomes:
 \begin{equation}
-D = \epsilon_0(1-\frac{\omega_p^2}{\omega^2-\omega_0^2+i\gamma\omega})E.
+D = \epsilon_0(1-\frac{\omega_p^2}{\omega^2+i\gamma\omega})E.
 \end{equation}
-The frequency-dependent relative permittivity of the material becomes 
+where $\epsilon_0$ is the permittivity of free space, and $\omega_p$ is the plasma frequency such that $\omega_p = \sqrt{\frac{n^2e}{m\epsilon_0}}$.
+The perittivity of the metal can then be written as:
 \begin{equation}
-\epsilon(\omega) = 1-\frac{\omega_p^2}{\omega^2-\omega_0^2+i\gamma\omega}
+\epsilon(\omega) = 1-\frac{\omega_p^2}{\omega^2+i\gamma\omega},
 \end{equation}
-The real and imaginary components of the complex dielectric function $\epsilon(\omega) = \epsilon_r(\omega) +i\epsilon_i(\omega)$ are defined as follows:
+where the real and imaginary parts of this complex function $\epsilon(\omega) = \epsilon_r(\omega)+i\epsilon_i(\omega)$ look as follows:
+\begin{equation}
+\begin{aligned}
+\epsilon_r(\omega) = 1 - \frac{\omega_p^2}{\gamma^2+\omega^2}\\
+\epsilon_i(\omega) = \frac{\omega_p^2\gamma}{\omega(\gamma^2+\omega^2)}
+\end{aligned}
+\end{equation}
+The Drude model is sufficient in explaining the AC conductivity in metals, however it is insufficient at describing the optical properties of noble metals in the visible regime. By adding a spring-like resonance term to Eq.~\ref{drude_eq1} the model performs much better. In the visible portion of the electromagnetic spectrum, the frequency of electromagnetic waves coincide with the natural oscillation of free electrons in noble metals; when polarization-specific light is incident on noble metals the free electrons oscillate in resonance. 
+\begin{equation}
+m\ddot{\mathbf{r}}+m\gamma\dot{\mathbf{r}}-\omega_0^2 = -e\mathbf{E},
+\label{drude_eq2}
+\end{equation}
+
+This leads to a Lorentz-oscillator form of the motion of the charge particle [\cite{Vial}], known as the Lorentz-Drude model where the complex permittivity becomes:
 \begin{equation}
 \begin{split}
 \epsilon_r(\omega) &= 1-\frac{\omega_p^2}{\omega^2-\omega_0^2+\gamma^2}\\
@@ -98,7 +107,7 @@ In general mode-matching conditions are satisfied by either using a prism, or ot
 
 Surface plasmons are known by two kinds, surface plasmon polaritons (SPPs) and localized surface plasmons (LSPs) [\cite{MaierBook}]. SPPs are composed of an electron density wave (plasmon part) coupled to a light wave (polariton part) and travel along the metal-dielectric interface. The dispersion relation dictates the wavelength  of the SPP, the coupling of light to the SPP results in a reduction of the free-space wavelength that is beneficial for electric field confinement. SPPs are commonly excited by 2D periodic grating structures as the periodic structure is able to provide the necessary in-plane wave-vector matching conditions. LSP resonances are a localized resonances of the charge density around nanostructures smaller than the wavelength of light. The resonance is highly dependent on the size, shape, material and surrounding environment of the nanostructure [\cite{Link1}], making them excellent candidates for sensors, in which small changes in environmental conditions are to be detected.
 
-\subsection{Derivation of the surface plasmon dispersion}
+\subsection{Coupling to Plasmons}
 \label{deriv}
 
 The surface plasmon dispersion can be derived from first principles as follows. First, a TM excitation wave is considered travelling in the $x-z$ plane incident on a metal dielectric interface at $z=0$, in which $E_y = 0$, $H_x = H_z = 0$, where $E$ and $H$ represent the electric and magnetic fields respectively and subscripts denote the relative direction. From this the electric and magnetic fields in the metal and dielectric can be written:
@@ -168,7 +177,7 @@ k_zd^2 &= \frac{\omega^2}{c^2}\frac{\epsilon_d}{\epsilon_m+\epsilon_d}\\
 \begin{figure}[t!]
 \centering
 \includegraphics[width=0.95\textwidth]{SPP.png}
-\caption{Surface plasmon polariton at a dielectric-metal interface.}
+\caption{Surface plasmon polariton at a dielectric-metal interface. https://sites.google.com/site/caltechhowardlee/Research}
 \end{figure}
 %https://sites.google.com/site/caltechhowardlee/Research
 
@@ -204,13 +213,46 @@ where $\epsilon^{ijk}$ is the Levi-Cevita symbol. The dipole moment can be writt
 \end{equation}
 Equation \ref{timeAv2} then becomes:
 \begin{equation}
-\langle F^i\rangle =\frac{1}{2}\Re\big[\alpha[E_{0j}\partial^j(E^i_0)^*+\epsilon^{ijk}\epsilon_{klm}E_{0j}\partial^l(E_0^m)^*]\big]
+\langle F^i\rangle =\frac{\alpha}{2}[E_{0j}\partial^j(E^i_0)^*+\epsilon^{ijk}\epsilon_{klm}E_{0j}\partial^l(E_0^m)^*]
 \end{equation}
 Using the relation between Levi-Cevita notation $\epsilon^{ijk}\epsilon_{klm} = \delta^i_l\delta^j_m-\delta_m^i\delta_l^j$ the time-averaged DC force can be written as:
 \begin{equation}
-\langle F^i\rangle = \frac{1}{2}\Re[\alpha E_{0j}\partial^i(E_0^j)^*]
+\langle F^i\rangle = \frac{\alpha}{2}E_{0j}\partial^i(E_0^j)^*
 \end{equation}
 \begin{equation}
-\langle \mathbf{F}\rangle = \frac{1}{2}\Re[\alpha \sum_i E_i\nabla E_i^*]
+\langle \mathbf{F}\rangle = \frac{\alpha }{2}\sum_i E_i\nabla E_i^*
+\label{Favg}
 \end{equation}
-Resulting in a nonzero DC force in terms of an oscillating electromagnetic field.
+Splitting Eq.~\ref{Favg} into real and imaginary components, the real part becomes:
+\begin{equation}
+\frac{\alpha}{2}\Re[\sum_i E_i\nabla E_i^*] = \frac{\alpha}{4}\Re[\nabla |\mathbf{E}|^2] = \frac{\alpha}{4}\nabla |\mathbf{E}|^2
+\end{equation}
+Which is commonly referred to as the gradient force [\cite{Ashkin:86, Proscia}]. Using vector identity product rules the imaginary component can be written as:
+\begin{equation}
+\frac{\alpha}{2}\Im[\sum_i E_i\nabla E_i^*] = \frac{\alpha}{2}\Im[\nabla\times\mathbf{E}\times\mathbf{E}^* + (\nabla\cdot\mathbf{E})\mathbf{E}^* + c.c.]
+\end{equation}
+This component is commonly referred to as the scattering force [\cite{KurosawaSPDE, Proscia}]. Both real and imaginary components contribute to the DC force from an oscillating electromagnetic field, the amount of each depend on the specific excitation conditions such as angle of incidence.
+%
+%\section{Decomposition of Poynting Vector}
+%John Poynting more than a century ago that light carries momentum. He also showed that light carries angular momentum also, and that both properties of electromagnetic waves should be conserved in the quantum-mechanical nature of photons. In this section the the properties of the optical angular momentum are decomposed into spin and orbital angular momentum components [~\cite{Bliokh2014}].
+%
+%The momentum density $\vec{p}(r)$ of a quantum or classical wave field appears in the energy-momentum tensor within the corresponding field theory [\cite{Soper}], where momentum density also represents the energy flux density. For scalar fields, the momentum density can be written as a local expectation value of the canonical momentum operator$\hat{p} = -i\nabla$, \textit{i.e.},$\textbf{p} = \Re(\psi^\dagger\hat{p}\psi)$ where $\psi(r)$ is the wave function, and we use units : $\hbar =$ 1. However, for vector fields, an additional spin momentum density was introduced in 1939 by F.J. Belinfante [\cite{Belinfante}] to explain the spin of quantum particles and symmetrize the canonical energy-momentum tensor in field theory. 
+%The optical momentum can be written as the sum of spin momentum component and a canonical (or orbital) momentum density, resulting in [\cite{Soper,Belinfante}]
+%\begin{equation}
+%\textbf{p} = \Re(\vec{\psi}^\dagger\hat{p}\vec{\psi})+\frac{1}{2}\nabla\times \textbf{s} \equiv \textbf{p}^O + \textbf{p}^S
+%\label{AM1}
+%\end{equation}
+%Here $\vec{\psi}(r)$ is the spinor wave function, whereas s(r) is the spin angular momentum density. Equation \ref{AM1} are fundamental and hold true for various particles. In the case of photons, equation \ref{AM1} yields the time-averaged Poynting vector $\textbf{p} \propto k \Re(\textbf{E}\times \textbf{H}^*)$. Explicitly, the optical momentum and spin densities \ref{AM1} read:
+%\begin{equation}
+%\begin{aligned}
+%\textbf{p}^O &= \frac{\gamma}{2}\Im[\textbf{E}^*\cdot\nabla\textbf{E}+\textbf{H}^*\cdot\nabla\textbf{H}]\\
+%\textbf{p}^S &= \frac{1}{2}\nabla\times\textbf{s}\\
+%\textbf{s} &= \frac{\gamma}{2} \Im[\textbf{E}\times \textbf{E}^* + \textbf{H}\times \textbf{H}^*]
+%\end{aligned}
+%\label{mom1}
+%\end{equation}
+%These quantities can be decomposed into electric and
+%magnetic field contributions: $\textbf{p}^O = \textbf{p}^O_e + \textbf{p}^O_m$ and $\textbf{s}^O = \textbf{s}_e + \textbf{s}_m$. Though the Poynting vector \textbf{p} is usually considered in optics as a single momentum density of light, we can represent it as the sum of two quantities $\textbf{p}^O$ and $\textbf{p}^S$, that have different physical meanings and properties.
+%
+%The spin momentum density ($\textbf{p}^s$) can be thought of as the boundary magnetization current, whereas the spin angular momentum density ($\textbf{s}$) can be thought of as the bulk magnetization. The orbital momentum density, ($\textbf{p}^O$), contains the gradient of the electric field, and can be thought of as the term that is responsible for radiation pressure and energy transport. The spin momentum density term, ($\textbf{p}^s$), however, includes the term $\nabla\times\textbf{E}\times\textbf{E}^*$ and is the term generates the spin angular momentum of light [\cite{Bekshaev2011}].
+%

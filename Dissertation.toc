@@ -10,72 +10,72 @@
 \contentsline {section}{\numberline {1.1}Overview of the dissertation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Light and Polarization}{2}{section.1.2}
 \contentsline {section}{\numberline {1.3}Surface plasmon polaritons}{3}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Coupling to plasmons}{4}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Derivation of the surface plasmon dispersion}{8}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Nonlinear plasmonics}{9}{subsection.1.3.3}
-\contentsline {section}{\numberline {1.4}Radiation and polarization forces}{11}{section.1.4}
-\contentsline {chapter}{\numberline {2}Ultra-low-intensity magneto-optical and mechanical effects in metal nanocolloids}{13}{chapter.2}
-\contentsline {section}{\numberline {2.1}Introduction}{13}{section.2.1}
-\contentsline {section}{\numberline {2.2}Linear dynamics}{15}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Addition of magnetic fields to equations of motion}{15}{subsection.2.2.1}
-\contentsline {section}{\numberline {2.3}Nonlinear dynamics}{17}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Nonlinear current density}{17}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Nonlinear magnetization}{18}{subsection.2.3.2}
-\contentsline {section}{\numberline {2.4}Numerical predictions}{18}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Finite-element simulation results}{18}{subsection.2.4.1}
-\contentsline {section}{\numberline {2.5}Experimental observation}{20}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Observation of transition from linear to nonlinear dynamics}{20}{subsection.2.5.1}
-\contentsline {section}{\numberline {2.6}Discussion}{23}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Magnetization magnitudes}{23}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Time-dependent response}{24}{subsection.2.6.2}
-\contentsline {section}{\numberline {2.7}Conclusion}{26}{section.2.7}
-\contentsline {section}{\numberline {2.8}Experimental difficulties and future work}{26}{section.2.8}
-\contentsline {chapter}{\numberline {3}Plasmon-induced Lorentz forces of nanowire chiral hybrid modes}{28}{chapter.3}
-\contentsline {section}{\numberline {3.1}Introduction}{28}{section.3.1}
-\contentsline {section}{\numberline {3.2}Setup and simulations of 2D dynamics}{31}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Calculation of electromagnetic fields}{31}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Calculation of Lorentz force}{34}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Calculation of torque forces}{35}{subsection.3.2.3}
-\contentsline {section}{\numberline {3.3}Translation and compressive plasmonic forces}{37}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Force visualized for various illumination wavelengths}{37}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Momentum transfer via scattering}{40}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Torque in 3-dimensions}{42}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Torque visualized for various illumination wavelengths}{42}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Phase diagram illustrations}{43}{subsection.3.4.2}
-\contentsline {section}{\numberline {3.5}Conclusion}{45}{section.3.5}
-\contentsline {section}{\numberline {3.6}Future work}{46}{section.3.6}
-\contentsline {chapter}{\numberline {4}Robustness and spatial multiplexing via diffractal architectures}{47}{chapter.4}
-\contentsline {section}{\numberline {4.1}Introduction}{47}{section.4.1}
-\contentsline {section}{\numberline {4.2}Theoretical description}{49}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Spatial multiplexing of the diffractal}{49}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Robust reconstruction of a blocked diffractal signal}{51}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}Experimental results}{54}{section.4.3}
-\contentsline {section}{\numberline {4.4}Discussion of applications}{55}{section.4.4}
-\contentsline {section}{\numberline {4.5}Conclusion}{59}{section.4.5}
-\contentsline {section}{\numberline {4.6}Experimental difficulties and future work}{59}{section.4.6}
-\contentsline {chapter}{\numberline {5}Meta-optical chirality and emergent eigen-polarization modes via plasmon interactions}{60}{chapter.5}
-\contentsline {section}{\numberline {5.1}Introduction}{60}{section.5.1}
-\contentsline {section}{\numberline {5.2}The coupling force}{64}{section.5.2}
-\contentsline {section}{\numberline {5.3}Coupled equations of motion}{66}{section.5.3}
-\contentsline {section}{\numberline {5.4}Mode hybridization and optical chirality}{69}{section.5.4}
-\contentsline {section}{\numberline {5.5}Emergent polarization eigenmodes}{73}{section.5.5}
-\contentsline {section}{\numberline {5.6}Discussion}{75}{section.5.6}
-\contentsline {section}{\numberline {5.7}Conclusion}{76}{section.5.7}
-\contentsline {section}{\numberline {5.8}Fabrication methods and measurement}{76}{section.5.8}
-\contentsline {subsection}{\numberline {5.8.1}Development}{78}{subsection.5.8.1}
-\contentsline {subsubsection}{Electron beam resist}{78}{section*.36}
-\contentsline {subsubsection}{Fracturing}{78}{section*.38}
-\contentsline {subsubsection}{Proximity effect correction}{79}{section*.39}
-\contentsline {subsubsection}{Developers}{80}{section*.40}
-\contentsline {subsection}{\numberline {5.8.2}Recipe}{80}{subsection.5.8.2}
-\contentsline {subsection}{\numberline {5.8.3}Transmission measurement setup}{82}{subsection.5.8.3}
-\contentsline {subsection}{\numberline {5.8.4}Polarization measurement setup}{83}{subsection.5.8.4}
-\contentsline {section}{\numberline {5.9}Experimental difficulties and future work}{83}{section.5.9}
-\contentsline {chapter}{\numberline {6}Summary and Outlook}{85}{chapter.6}
-\contentsline {section}{\numberline {6.1}What has been done}{85}{section.6.1}
-\contentsline {section}{\numberline {6.2}What is left to do}{87}{section.6.2}
-\contentsline {chapter}{\numberline {7}Appendix}{90}{chapter.7}
-\contentsline {section}{\numberline {7.1}Matlab function code to create Sierpinski carpet hologram}{90}{section.7.1}
-\contentsline {section}{\numberline {7.2}Matlab function code to recreate Sierpinski carpet hologram}{91}{section.7.2}
-\contentsline {chapter}{\nameref {chap:ppm}}{92}{chapter*.43}
-\contentsline {chapter}{Bibliography}{93}{chapter*.44}
+\contentsline {subsection}{\numberline {1.3.1}The Drude Model}{4}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Coupling to Plasmons}{8}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Nonlinear plasmonics}{10}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Radiation and polarization forces}{12}{section.1.4}
+\contentsline {chapter}{\numberline {2}Ultra-low-intensity magneto-optical and mechanical effects in metal nanocolloids}{14}{chapter.2}
+\contentsline {section}{\numberline {2.1}Introduction}{14}{section.2.1}
+\contentsline {section}{\numberline {2.2}Linear dynamics}{16}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Addition of magnetic fields to equations of motion}{16}{subsection.2.2.1}
+\contentsline {section}{\numberline {2.3}Nonlinear dynamics}{18}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Nonlinear current density}{18}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Nonlinear magnetization}{19}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Numerical predictions}{19}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Finite-element simulation results}{19}{subsection.2.4.1}
+\contentsline {section}{\numberline {2.5}Experimental observation}{21}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Observation of transition from linear to nonlinear dynamics}{21}{subsection.2.5.1}
+\contentsline {section}{\numberline {2.6}Discussion}{24}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Magnetization magnitudes}{24}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Time-dependent response}{25}{subsection.2.6.2}
+\contentsline {section}{\numberline {2.7}Conclusion}{27}{section.2.7}
+\contentsline {section}{\numberline {2.8}Experimental difficulties and future work}{27}{section.2.8}
+\contentsline {chapter}{\numberline {3}Plasmon-induced Lorentz forces of nanowire chiral hybrid modes}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Introduction}{29}{section.3.1}
+\contentsline {section}{\numberline {3.2}Setup and simulations of 2D dynamics}{32}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Calculation of electromagnetic fields}{32}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Calculation of Lorentz force}{35}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Calculation of torque forces}{36}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Translation and compressive plasmonic forces}{38}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Force visualized for various illumination wavelengths}{38}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Momentum transfer via scattering}{41}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Torque in 3-dimensions}{43}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Torque visualized for various illumination wavelengths}{43}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Phase diagram illustrations}{44}{subsection.3.4.2}
+\contentsline {section}{\numberline {3.5}Conclusion}{46}{section.3.5}
+\contentsline {section}{\numberline {3.6}Future work}{47}{section.3.6}
+\contentsline {chapter}{\numberline {4}Robustness and spatial multiplexing via diffractal architectures}{48}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{48}{section.4.1}
+\contentsline {section}{\numberline {4.2}Theoretical description}{50}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Spatial multiplexing of the diffractal}{50}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Robust reconstruction of a blocked diffractal signal}{52}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Experimental results}{55}{section.4.3}
+\contentsline {section}{\numberline {4.4}Discussion of applications}{56}{section.4.4}
+\contentsline {section}{\numberline {4.5}Conclusion}{60}{section.4.5}
+\contentsline {section}{\numberline {4.6}Experimental difficulties and future work}{60}{section.4.6}
+\contentsline {chapter}{\numberline {5}Meta-optical chirality and emergent eigen-polarization modes via plasmon interactions}{61}{chapter.5}
+\contentsline {section}{\numberline {5.1}Introduction}{61}{section.5.1}
+\contentsline {section}{\numberline {5.2}The coupling force}{65}{section.5.2}
+\contentsline {section}{\numberline {5.3}Coupled equations of motion}{67}{section.5.3}
+\contentsline {section}{\numberline {5.4}Mode hybridization and optical chirality}{70}{section.5.4}
+\contentsline {section}{\numberline {5.5}Emergent polarization eigenmodes}{74}{section.5.5}
+\contentsline {section}{\numberline {5.6}Discussion}{76}{section.5.6}
+\contentsline {section}{\numberline {5.7}Conclusion}{77}{section.5.7}
+\contentsline {section}{\numberline {5.8}Fabrication methods and measurement}{77}{section.5.8}
+\contentsline {subsection}{\numberline {5.8.1}Development}{79}{subsection.5.8.1}
+\contentsline {subsubsection}{Electron beam resist}{79}{section*.36}
+\contentsline {subsubsection}{Fracturing}{79}{section*.38}
+\contentsline {subsubsection}{Proximity effect correction}{80}{section*.39}
+\contentsline {subsubsection}{Developers}{81}{section*.40}
+\contentsline {subsection}{\numberline {5.8.2}Recipe}{81}{subsection.5.8.2}
+\contentsline {subsection}{\numberline {5.8.3}Transmission measurement setup}{83}{subsection.5.8.3}
+\contentsline {subsection}{\numberline {5.8.4}Polarization measurement setup}{84}{subsection.5.8.4}
+\contentsline {section}{\numberline {5.9}Experimental difficulties and future work}{84}{section.5.9}
+\contentsline {chapter}{\numberline {6}Summary and Outlook}{86}{chapter.6}
+\contentsline {section}{\numberline {6.1}What has been done}{86}{section.6.1}
+\contentsline {section}{\numberline {6.2}What is left to do}{88}{section.6.2}
+\contentsline {chapter}{\numberline {7}Appendix}{91}{chapter.7}
+\contentsline {section}{\numberline {7.1}Matlab function code to create Sierpinski carpet hologram}{91}{section.7.1}
+\contentsline {section}{\numberline {7.2}Matlab function code to recreate Sierpinski carpet hologram}{92}{section.7.2}
+\contentsline {chapter}{\nameref {chap:ppm}}{93}{chapter*.43}
+\contentsline {chapter}{Bibliography}{94}{chapter*.44}

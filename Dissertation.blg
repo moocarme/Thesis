@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Dissertation.aux
 A level-1 auxiliary file: Title_page.aux
@@ -9,45 +9,45 @@ A level-1 auxiliary file: Acknowledgments.aux
 The style file: apalike.bst
 Database file #1: ../refs.bib
 Warning--to sort, need author or key in BEAMER
-You've used 191 entries,
+You've used 194 entries,
             1935 wiz_defined-function locations,
-            1725 strings with 38013 characters,
-and the built_in function-call counts, 85507 in all, are:
-= -- 8078
-> -- 4288
-< -- 76
-+ -- 1519
-- -- 1499
-* -- 8053
-:= -- 14993
-add.period$ -- 586
-call.type$ -- 191
-change.case$ -- 1695
-chr.to.int$ -- 185
-cite$ -- 193
-duplicate$ -- 2682
-empty$ -- 5642
-format.name$ -- 1767
-if$ -- 16465
+            1745 strings with 38498 characters,
+and the built_in function-call counts, 86760 in all, are:
+= -- 8204
+> -- 4331
+< -- 78
++ -- 1533
+- -- 1513
+* -- 8169
+:= -- 15206
+add.period$ -- 595
+call.type$ -- 194
+change.case$ -- 1717
+chr.to.int$ -- 188
+cite$ -- 196
+duplicate$ -- 2724
+empty$ -- 5736
+format.name$ -- 1786
+if$ -- 16710
 int.to.chr$ -- 7
 int.to.str$ -- 0
-missing$ -- 201
-newline$ -- 969
-num.names$ -- 572
-pop$ -- 1317
+missing$ -- 204
+newline$ -- 984
+num.names$ -- 581
+pop$ -- 1331
 preamble$ -- 2
-purify$ -- 1704
+purify$ -- 1726
 quote$ -- 0
-skip$ -- 2007
+skip$ -- 2039
 stack$ -- 0
-substring$ -- 6392
-swap$ -- 220
+substring$ -- 6511
+swap$ -- 223
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1118
+type$ -- 1136
 warning$ -- 1
-while$ -- 576
+while$ -- 587
 width$ -- 0
-write$ -- 2503
+write$ -- 2542
 (There was 1 warning)

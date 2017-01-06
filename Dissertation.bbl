@@ -54,6 +54,12 @@ Ashkin, A. (2001).
   Particles, Atoms, and Molecules}, pages 1--31.
 \newblock Springer Berlin Heidelberg, Berlin, Heidelberg.
 
+\bibitem[Ashkin et~al., 1986]{Ashkin:86}
+Ashkin, A., Dziedzic, J.~M., Bjorkholm, J.~E., and Chu, S. (1986).
+\newblock Observation of a single-beam gradient force optical trap for
+  dielectric particles.
+\newblock {\em Opt. Lett.}, 11(5):288--290.
+
 \bibitem[Atwater, 2007]{Atwater07}
 Atwater, H. (2007).
 \newblock The promise of plasmonics.
@@ -245,6 +251,12 @@ Dolling, G., Wegener, M., Soukoulis, C.~M., and Linden, S. (2007).
 Drake, J. and Genack, A. ({1989}).
 \newblock {Observation of Nonclassical Optical Diffusion}.
 \newblock {\em {Physical Review Letters}}, {63}({3}):{259--262}.
+
+\bibitem[Drude, 1900]{Drude:00}
+Drude, P. (1900).
+\newblock Zur elektronentheorie der metalle; ii. teil. galvanomagnetische und
+  thermomagnetische effecte.
+\newblock {\em Annalen der Physik}, 308(11):369--402.
 
 \bibitem[Du et~al., 2011]{Du}
 Du, G.-X., Saito, S., and Takahashi, M. (2011).
@@ -486,6 +498,12 @@ Kumar, A., Boruah, B.~M., and Liang, X.-J. (2011).
 Kuo, S.~C. (2001).
 \newblock Using optics to measure biological forces and mechanics.
 \newblock {\em Traffic}, 11(2):757--763.
+
+\bibitem[Kurosawa and Ishihara, 2012]{KurosawaSPDE}
+Kurosawa, H. and Ishihara, T. ({2012}).
+\newblock {Surface plasmon drag effect in a dielectrically modulated metallic
+  thin film}.
+\newblock {\em {Optics Express}}, {20}({2}):{1561--1574}.
 
 \bibitem[Kuznetsov et~al., 2012]{Kuznetsov}
 Kuznetsov, A.~I., Miroshnichenko, A.~E., Fu, Y.~H., Zhang, J., and Luk'yanchuk,
