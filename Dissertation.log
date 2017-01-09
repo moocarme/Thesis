@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.5)  9 JAN 2017 12:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.5)  9 JAN 2017 16:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -834,11 +834,7 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 \openout2 = `Abstract.aux'.
 
 
-(./Abstract.tex
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-) [4
+(./Abstract.tex) [4
 
 
 ] [5] [6
@@ -1468,22 +1464,22 @@ Missing character: There is no ˆ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ¹ in font cmr12!
  [109] [110])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 304.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
  [111]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 304.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
  (./Dissertation.aux (./Title_page.aux)
 (./Copyright_page.aux) (./Approval_page.aux) (./Abstract.aux)
 (./Acknowledgments.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 304.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 304.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 300.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 300.
 Package rerunfilecheck Info: File `Dissertation.out' has not changed.
 (rerunfilecheck)             Checksum: 10AE492C97D39546DC0CB341D65A6997;5440.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 304.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 300.
  ) 
 Here is how much of TeX's memory you used:
  20593 strings out of 493029
  343232 string characters out of 6136235
- 594693 words of memory out of 5000000
+ 593693 words of memory out of 5000000
  23132 multiletter control sequences out of 15000+600000
  14512 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1509,7 +1505,7 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on Dissertation.pdf (137 pages, 39307066 bytes).
+Output written on Dissertation.pdf (137 pages, 39306854 bytes).
 PDF statistics:
  6905 PDF objects out of 7423 (max. 8388607)
  2883 compressed objects within 29 object streams
