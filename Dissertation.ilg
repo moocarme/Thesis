@@ -1,4 +1,4 @@
-This is makeindex, version 2.15 [TeX Live 2013] (kpathsea + Thai support).
+This is makeindex, version 2.15 [TeX Live 2015] (kpathsea + Thai support).
 Scanning style file /usr/share/texlive/texmf-dist/makeindex/nomencl/nomencl.ist.......
 ** Input style error (file = /usr/share/texlive/texmf-dist/makeindex/nomencl/nomencl.ist, line = 70):
    -- Unknown specifier lethead_prefix.
@@ -8,7 +8,7 @@ Scanning style file /usr/share/texlive/texmf-dist/makeindex/nomencl/nomencl.ist.
    -- Unknown specifier lethead_flag.
 ...done (10 attributes redefined, 3 ignored).
 Scanning input file Dissertation.nlo....done (132 entries accepted, 0 rejected).
-Sorting entries....done (989 comparisons).
-Generating output file Dissertation.nls....done (242 lines written, 0 warnings).
+Sorting entries....done (1007 comparisons).
+Generating output file Dissertation.nls....done (253 lines written, 0 warnings).
 Output written in Dissertation.nls.
 Transcript written in Dissertation.ilg.

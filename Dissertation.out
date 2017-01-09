@@ -1,6 +1,6 @@
-\BOOKMARK [0][-]{chapter*.7}{Contents}{}% 1
-\BOOKMARK [0][-]{chapter*.8}{List of Figures}{}% 2
-\BOOKMARK [0][-]{chapter*.9}{Nomenclature}{}% 3
+\BOOKMARK [0][-]{chapter*.2}{Contents}{}% 1
+\BOOKMARK [0][-]{chapter*.3}{List of Figures}{}% 2
+\BOOKMARK [0][-]{chapter*.4}{Nomenclature}{}% 3
 \BOOKMARK [0][-]{chapter.1}{Introduction}{}% 4
 \BOOKMARK [1][-]{section.1.1}{Overview of the dissertation}{chapter.1}% 5
 \BOOKMARK [1][-]{section.1.2}{Light and Polarization}{chapter.1}% 6
@@ -39,34 +39,34 @@
 \BOOKMARK [2][-]{subsection.3.4.2}{Phase diagram illustrations}{section.3.4}% 39
 \BOOKMARK [1][-]{section.3.5}{Conclusion}{chapter.3}% 40
 \BOOKMARK [1][-]{section.3.6}{Future work}{chapter.3}% 41
-\BOOKMARK [0][-]{chapter.4}{Robustness and spatial multiplexing via diffractal architectures}{}% 42
+\BOOKMARK [0][-]{chapter.4}{Meta-optical chirality and emergent eigen-polarization modes via plasmon interactions}{}% 42
 \BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 43
-\BOOKMARK [1][-]{section.4.2}{Theoretical description}{chapter.4}% 44
-\BOOKMARK [2][-]{subsection.4.2.1}{Spatial multiplexing of the diffractal}{section.4.2}% 45
-\BOOKMARK [2][-]{subsection.4.2.2}{Robust reconstruction of a blocked diffractal signal}{section.4.2}% 46
-\BOOKMARK [1][-]{section.4.3}{Experimental results}{chapter.4}% 47
-\BOOKMARK [1][-]{section.4.4}{Discussion of applications}{chapter.4}% 48
-\BOOKMARK [1][-]{section.4.5}{Conclusion}{chapter.4}% 49
-\BOOKMARK [1][-]{section.4.6}{Experimental difficulties and future work}{chapter.4}% 50
-\BOOKMARK [0][-]{chapter.5}{Meta-optical chirality and emergent eigen-polarization modes via plasmon interactions}{}% 51
-\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 52
-\BOOKMARK [1][-]{section.5.2}{The coupling force}{chapter.5}% 53
-\BOOKMARK [1][-]{section.5.3}{Coupled equations of motion}{chapter.5}% 54
-\BOOKMARK [1][-]{section.5.4}{Mode hybridization and optical chirality}{chapter.5}% 55
-\BOOKMARK [1][-]{section.5.5}{Emergent polarization eigenmodes}{chapter.5}% 56
-\BOOKMARK [1][-]{section.5.6}{Discussion}{chapter.5}% 57
-\BOOKMARK [1][-]{section.5.7}{Conclusion}{chapter.5}% 58
-\BOOKMARK [1][-]{section.5.8}{Fabrication methods and measurement}{chapter.5}% 59
-\BOOKMARK [2][-]{subsection.5.8.1}{Development}{section.5.8}% 60
-\BOOKMARK [2][-]{subsection.5.8.2}{Recipe}{section.5.8}% 61
-\BOOKMARK [2][-]{subsection.5.8.3}{Transmission measurement setup}{section.5.8}% 62
-\BOOKMARK [2][-]{subsection.5.8.4}{Polarization measurement setup}{section.5.8}% 63
-\BOOKMARK [1][-]{section.5.9}{Experimental difficulties and future work}{chapter.5}% 64
+\BOOKMARK [1][-]{section.4.2}{The coupling force}{chapter.4}% 44
+\BOOKMARK [1][-]{section.4.3}{Coupled equations of motion}{chapter.4}% 45
+\BOOKMARK [1][-]{section.4.4}{Mode hybridization and optical chirality}{chapter.4}% 46
+\BOOKMARK [1][-]{section.4.5}{Emergent polarization eigenmodes}{chapter.4}% 47
+\BOOKMARK [1][-]{section.4.6}{Discussion}{chapter.4}% 48
+\BOOKMARK [1][-]{section.4.7}{Conclusion}{chapter.4}% 49
+\BOOKMARK [1][-]{section.4.8}{Fabrication methods and measurement}{chapter.4}% 50
+\BOOKMARK [2][-]{subsection.4.8.1}{Development}{section.4.8}% 51
+\BOOKMARK [2][-]{subsection.4.8.2}{Recipe}{section.4.8}% 52
+\BOOKMARK [2][-]{subsection.4.8.3}{Transmission measurement setup}{section.4.8}% 53
+\BOOKMARK [2][-]{subsection.4.8.4}{Polarization measurement setup}{section.4.8}% 54
+\BOOKMARK [1][-]{section.4.9}{Experimental difficulties and future work}{chapter.4}% 55
+\BOOKMARK [0][-]{chapter.5}{Robustness and spatial multiplexing via diffractal architectures}{}% 56
+\BOOKMARK [1][-]{section.5.1}{Introduction}{chapter.5}% 57
+\BOOKMARK [1][-]{section.5.2}{Theoretical description}{chapter.5}% 58
+\BOOKMARK [2][-]{subsection.5.2.1}{Spatial multiplexing of the diffractal}{section.5.2}% 59
+\BOOKMARK [2][-]{subsection.5.2.2}{Robust reconstruction of a blocked diffractal signal}{section.5.2}% 60
+\BOOKMARK [1][-]{section.5.3}{Experimental results}{chapter.5}% 61
+\BOOKMARK [1][-]{section.5.4}{Discussion of applications}{chapter.5}% 62
+\BOOKMARK [1][-]{section.5.5}{Conclusion}{chapter.5}% 63
+\BOOKMARK [1][-]{section.5.6}{Experimental difficulties and future work}{chapter.5}% 64
 \BOOKMARK [0][-]{chapter.6}{Summary and Outlook}{}% 65
 \BOOKMARK [1][-]{section.6.1}{What has been done}{chapter.6}% 66
 \BOOKMARK [1][-]{section.6.2}{What is left to do}{chapter.6}% 67
 \BOOKMARK [0][-]{chapter.7}{Appendix}{}% 68
 \BOOKMARK [1][-]{section.7.1}{Matlab function code to create Sierpinski carpet hologram}{chapter.7}% 69
 \BOOKMARK [1][-]{section.7.2}{Matlab function code to recreate Sierpinski carpet hologram}{chapter.7}% 70
-\BOOKMARK [0][-]{chapter*.43}{Previously Published Materials}{}% 71
-\BOOKMARK [0][-]{chapter*.44}{Bibliography}{}% 72
+\BOOKMARK [0][-]{chapter*.38}{Previously Published Materials}{}% 71
+\BOOKMARK [0][-]{chapter*.39}{Bibliography}{}% 72
