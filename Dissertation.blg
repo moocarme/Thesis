@@ -9,45 +9,46 @@ A level-1 auxiliary file: Acknowledgments.aux
 The style file: apalike.bst
 Database file #1: ../refs.bib
 Warning--to sort, need author or key in BEAMER
-You've used 194 entries,
+Warning--there's a number but no volume in Enoch:06
+You've used 189 entries,
             1935 wiz_defined-function locations,
-            1745 strings with 38498 characters,
-and the built_in function-call counts, 86760 in all, are:
-= -- 8204
-> -- 4331
-< -- 78
-+ -- 1533
-- -- 1513
-* -- 8169
-:= -- 15206
-add.period$ -- 595
-call.type$ -- 194
-change.case$ -- 1717
-chr.to.int$ -- 188
-cite$ -- 196
-duplicate$ -- 2724
-empty$ -- 5736
-format.name$ -- 1786
-if$ -- 16710
-int.to.chr$ -- 7
+            1709 strings with 37253 characters,
+and the built_in function-call counts, 83699 in all, are:
+= -- 7923
+> -- 4123
+< -- 81
++ -- 1456
+- -- 1437
+* -- 7844
+:= -- 14673
+add.period$ -- 579
+call.type$ -- 189
+change.case$ -- 1653
+chr.to.int$ -- 184
+cite$ -- 192
+duplicate$ -- 2650
+empty$ -- 5563
+format.name$ -- 1705
+if$ -- 16139
+int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 204
-newline$ -- 984
-num.names$ -- 581
-pop$ -- 1331
+missing$ -- 199
+newline$ -- 957
+num.names$ -- 566
+pop$ -- 1281
 preamble$ -- 2
-purify$ -- 1726
+purify$ -- 1663
 quote$ -- 0
-skip$ -- 2039
+skip$ -- 1988
 stack$ -- 0
-substring$ -- 6511
-swap$ -- 223
+substring$ -- 6279
+swap$ -- 217
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1136
-warning$ -- 1
-while$ -- 587
+type$ -- 1104
+warning$ -- 2
+while$ -- 566
 width$ -- 0
-write$ -- 2542
-(There was 1 warning)
+write$ -- 2472
+(There were 2 warnings)

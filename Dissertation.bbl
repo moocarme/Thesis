@@ -19,12 +19,6 @@ Allouce, J. and Shallit (2003).
 \newblock {\em Automatic Sequence: Theory, Applications, Generalizations}.
 \newblock Cambridge University Press.
 
-\bibitem[Al\`u et~al., 2007]{Alu:07}
-Al\`u, A., Silveirinha, M.~G., Salandrino, A., and Engheta, N. (2007).
-\newblock Epsilon-near-zero metamaterials and electromagnetic sources:
-  Tailoring the radiation phase pattern.
-\newblock {\em Phys. Rev. B}, 75:155410.
-
 \bibitem[Andrew~Chan and Kazarian, 2016]{Chan:2016}
 Andrew~Chan, K.~L. and Kazarian, S.~G. (2016).
 \newblock Attenuated total reflection fourier-transform infrared (atr-ftir)
@@ -242,11 +236,6 @@ Ditlbacher, H., Hohenau, A., Wagner, D., Kreibig, U., Rogers, M., Hofer, F.,
 \newblock Silver nanowires as surface plasmon resonators.
 \newblock {\em Physical Review Letters}, 95:257403.
 
-\bibitem[Dolling et~al., 2007]{Dolling:07}
-Dolling, G., Wegener, M., Soukoulis, C.~M., and Linden, S. (2007).
-\newblock Negative-index metamaterial at 780 nm wavelength.
-\newblock {\em Optics Letters}, 32(1):53--55.
-
 \bibitem[Drake and Genack, 1989]{Genack}
 Drake, J. and Genack, A. ({1989}).
 \newblock {Observation of Nonclassical Optical Diffusion}.
@@ -281,6 +270,11 @@ Eftekhari, F. and Davis, T.~J. ({2012}).
 \newblock {Strong chiral optical response from planar arrays of subwavelength
   metallic structures supporting surface plasmon resonances}.
 \newblock {\em {Physical Review B}}, {86}({7}).
+
+\bibitem[Enoch, 2006]{Enoch:06}
+Enoch, J.~M. (2006).
+\newblock History of mirrors dating back 8000 years.
+\newblock {\em Optometry and Vision Science}, (10):775--781.
 
 \bibitem[Fan et~al., 2010]{FanSci}
 Fan, J.~A., Wu, C., Bao, K., Bao, J., Bardhan, R., Halas, N.~J., Manoharan,
@@ -411,6 +405,12 @@ Hugel, T., Holland, N., Cattani, A., Moroder, L., Seitz, M., and Gaub, H.
 \newblock {Single-molecule optomechanical cycle}.
 \newblock {\em {Science}}, {296}({5570}):{1103--1106}.
 
+\bibitem[Ilardi, 2007]{ilardi:07}
+Ilardi, V. (2007).
+\newblock {\em Renaissance Vision from Spectacles to Telescopes}.
+\newblock Memoirs of the American Philosophical Society held at Philadelphia
+  for promoting useful knowledge. American Philosophical Society.
+
 \bibitem[Jackson, 1999]{jackson}
 Jackson, J.~D. (1999).
 \newblock {\em Classical electrodynamics}.
@@ -456,20 +456,6 @@ Khanikaev, A.~B., Arju, N., Fan, Z., Purtseladze, D., Lu, F., Lee, J.,
 \newblock {Experimental demonstration of the microscopic origin of circular
   dichroism in two-dimensional metamaterials}.
 \newblock {\em {Nature COmmunications}}, {7}.
-
-\bibitem[Khorasaninejad et~al., 2016a]{Khorasaninejad1190}
-Khorasaninejad, M., Chen, W.~T., Devlin, R.~C., Oh, J., Zhu, A.~Y., and
-  Capasso, F. (2016a).
-\newblock Metalenses at visible wavelengths: Diffraction-limited focusing and
-  subwavelength resolution imaging.
-\newblock {\em Science}, 352(6290):1190--1194.
-
-\bibitem[Khorasaninejad et~al., 2016b]{Khorasaninejad:2016}
-Khorasaninejad, M., Chen, W.~T., Zhu, A.~Y., Oh, J., Devlin, R.~C., Rousso, D.,
-  and Capasso, F. (2016b).
-\newblock Multispectral chiral imaging with a metalens.
-\newblock {\em Nano Letters}, 16(7):4595--4600.
-\newblock PMID: 27267137.
 
 \bibitem[Kippenberg and Vahala, 2007]{Kippenberg2007}
 Kippenberg, T.~J. and Vahala, K.~J. ({2007}).
@@ -711,6 +697,10 @@ Novotny, L. and van Hulst, N. (2011).
 \newblock {\em Nature Photonics}, 5:83--90.
 \newblock PMID: 18229953.
 
+\bibitem[of~America, 2016]{OSA}
+of~America, T. O.~S. (2016).
+\newblock Nobel laureates.
+
 \bibitem[Owen and Rissman, 1983]{PEC}
 Owen, G. and Rissman, P. ({1983}).
 \newblock {Proximity Effect Correction for Electron-Beam Lithography by
@@ -722,16 +712,6 @@ Ozbay, E. (2006).
 \newblock Plasmonics: Merging photonics and electronics at nanoscale
   dimensions.
 \newblock {\em Science}, 311(5758):189--193.
-
-\bibitem[Padilla et~al., 2006]{Padilla:2006}
-Padilla, W.~J., Basov, D.~N., and Smith, D.~R. (2006).
-\newblock Negative refractive index metamaterials.
-\newblock {\em Materials Today}, 9(7–8):28 -- 35.
-
-\bibitem[Park et~al., 2015]{JPark:2015c}
-Park, J., Kang, J.-H., Liu, X., and Brongersma, M.~L. (2015).
-\newblock Electrically tunable epsilon-near-zero (enz) metafilm absorbers.
-\newblock {\em Sci. Rep.}, 5:15754.
 
 \bibitem[Paterson et~al., 2001]{Paterson2001}
 Paterson, L., MacDonald, M., Arlt, J., Sibbett, W., Bryant, P., and Dholakia,
@@ -880,12 +860,6 @@ Shaltout, A., Liu, J., Shalaev, V.~M., and Kildishev, A.~V. ({2014}).
 \newblock {Optically Active Metasurface with Non-Chiral Plasmonic
   Nanoantennas}.
 \newblock {\em {Nano Letters}}, {14}({8}):{4426--4431}.
-
-\bibitem[Shelby et~al., 2001]{shelby:489}
-Shelby, R.~A., Smith, D.~R., Nemat-Nasser, S.~C., and Schultz, S. (2001).
-\newblock {Microwave transmission through a two-dimensional, isotropic,
-  left-handed metamaterial}.
-\newblock {\em Applied Physics Letters}, 78(4):489--491.
 
 \bibitem[Shelton et~al., 2005]{Shelton2005}
 Shelton, W., Bonin, K., and Walker, T. (2005).
@@ -1103,12 +1077,6 @@ Yan, Z., Sweet, J., Jureller, J.~E., Guffey, M.~J., Pelton, M., and Scherer,
 \newblock {Controlling the position and orientation of single silver nanowires
   on a surface using structured optical fields}.
 \newblock {\em ACS Nano}, 6(9):8144--8155.
-
-\bibitem[Yang et~al., 2014]{Yang:14}
-Yang, Q., Gu, J., Wang, D., Zhang, X., Tian, Z., Ouyang, C., Singh, R., Han,
-  J., and Zhang, W. (2014).
-\newblock Efficient flat metasurface lens for terahertz imaging.
-\newblock {\em Optics Express}, 22(21):25931--25939.
 
 \bibitem[Yang et~al., 2016]{Yang16}
 Yang, S., Liu, Z., Xia, X., E, Y., Tang, C., Wang, Y., Li, J., Wang, L., and
