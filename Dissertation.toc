@@ -4,10 +4,10 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Overview of the dissertation}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Light and Polarization}{2}{section.1.2}
-\contentsline {section}{\numberline {1.3}Surface plasmon polaritons}{4}{section.1.3}
+\contentsline {section}{\numberline {1.3}Surface plasmon polaritons}{3}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}The Drude Model}{4}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Coupling to Plasmons}{8}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Nonlinear plasmonics}{11}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.3}Nonlinear plasmonics}{10}{subsection.1.3.3}
 \contentsline {section}{\numberline {1.4}Radiation and polarization forces}{12}{section.1.4}
 \contentsline {chapter}{\numberline {2}Ultra-low-intensity magneto-optical and mechanical effects in metal nanocolloids}{14}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{15}{section.2.1}
