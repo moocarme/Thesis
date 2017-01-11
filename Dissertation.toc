@@ -9,7 +9,7 @@
 \contentsline {subsection}{\numberline {1.4.1}The Drude Model}{5}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Coupling to Plasmons}{9}{subsection.1.4.2}
 \contentsline {subsection}{\numberline {1.4.3}Nonlinear plasmonics}{11}{subsection.1.4.3}
-\contentsline {section}{\numberline {1.5}Radiation and polarization forces}{13}{section.1.5}
+\contentsline {section}{\numberline {1.5}Radiation and polarization forces}{12}{section.1.5}
 \contentsline {chapter}{\numberline {2}Ultra-low-intensity magneto-optical and mechanical effects in metal nanocolloids}{15}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{16}{section.2.1}
 \contentsline {section}{\numberline {2.2}Linear dynamics}{18}{section.2.2}
@@ -66,12 +66,12 @@
 \contentsline {section}{\numberline {5.3}Experimental results}{83}{section.5.3}
 \contentsline {section}{\numberline {5.4}Discussion of applications}{85}{section.5.4}
 \contentsline {section}{\numberline {5.5}Conclusion}{87}{section.5.5}
-\contentsline {section}{\numberline {5.6}Experimental difficulties and future work}{89}{section.5.6}
-\contentsline {chapter}{\numberline {6}Summary and Outlook}{90}{chapter.6}
-\contentsline {section}{\numberline {6.1}What has been done}{90}{section.6.1}
-\contentsline {section}{\numberline {6.2}What is left to do}{92}{section.6.2}
-\contentsline {chapter}{\numberline {7}Appendix}{95}{chapter.7}
-\contentsline {section}{\numberline {7.1}Matlab function code to create Sierpinski carpet hologram}{95}{section.7.1}
-\contentsline {section}{\numberline {7.2}Matlab function code to recreate Sierpinski carpet hologram}{96}{section.7.2}
-\contentsline {chapter}{\nameref {chap:ppm}}{97}{chapter*.38}
-\contentsline {chapter}{Bibliography}{98}{chapter*.39}
+\contentsline {section}{\numberline {5.6}Experimental difficulties and future work}{87}{section.5.6}
+\contentsline {chapter}{\numberline {6}Summary and Outlook}{89}{chapter.6}
+\contentsline {section}{\numberline {6.1}What has been done}{89}{section.6.1}
+\contentsline {section}{\numberline {6.2}What is left to do}{91}{section.6.2}
+\contentsline {chapter}{\numberline {7}Appendix}{94}{chapter.7}
+\contentsline {section}{\numberline {7.1}Matlab function code to create Sierpinski carpet hologram}{94}{section.7.1}
+\contentsline {section}{\numberline {7.2}Matlab function code to recreate Sierpinski carpet hologram}{95}{section.7.2}
+\contentsline {chapter}{\nameref {chap:ppm}}{96}{chapter*.37}
+\contentsline {chapter}{Bibliography}{97}{chapter*.38}
