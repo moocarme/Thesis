@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.5)  24 JAN 2017 21:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.1.5)  27 JAN 2017 17:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -892,25 +892,21 @@ Chapter 1.
 (./Introduction.tex [1
 
 
-] [2] [3]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no “ in font cmr12!
- [4] [5] [6]
-<dispRelation.pdf, id=718, 489.83pt x 398.1525pt>
-File: dispRelation.pdf Graphic file (type pdf)
- <use dispRelation.pdf>
-Package pdftex.def Info: dispRelation.pdf used on input line 99.
-(pdftex.def)             Requested size: 352.31625pt x 286.38403pt.
+] [2] [3] [4] [5] [6]
+<plasmon_dispersion.png, id=720, 1606.0pt x 1204.5pt>
+File: plasmon_dispersion.png Graphic file (type png)
 
-[7] [8 <./dispRelation.pdf>] [9] <SPP.png, id=796, 401.5pt x 191.71625pt>
+<use plasmon_dispersion.png>
+Package pdftex.def Info: plasmon_dispersion.png used on input line 98.
+(pdftex.def)             Requested size: 352.31625pt x 264.23727pt.
+ [7] [8 <./plasmon_dispersion.png>] [9]
+<SPP.png, id=769, 401.5pt x 191.71625pt>
 File: SPP.png Graphic file (type png)
-
-<use SPP.png>
-Package pdftex.def Info: SPP.png used on input line 183.
+ <use SPP.png>
+Package pdftex.def Info: SPP.png used on input line 182.
 (pdftex.def)             Requested size: 446.26582pt x 213.10593pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
+Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []\OT1/cmr/m/n/12 Figure 1.2: |Sur-face plas-mon po-lari-ton at a dielectric-me
 tal in-ter-face.
  []
@@ -921,32 +917,32 @@ Chapter 2.
 
 
 ] [16] [17]
-<dnk_mT.pdf, id=991, 1062.84076pt x 570.62483pt>
+<dnk_mT.pdf, id=963, 1062.84076pt x 570.62483pt>
 File: dnk_mT.pdf Graphic file (type pdf)
  <use dnk_mT.pdf>
 Package pdftex.def Info: dnk_mT.pdf used on input line 16.
 (pdftex.def)             Requested size: 469.75502pt x 252.20761pt.
- [18] [19 <./dnk_mT.pdf>] [20] <SigandJPhi8.pdf, id=1046, 946.11769pt x 1011.33
+ [18] [19 <./dnk_mT.pdf>] [20] <SigandJPhi8.pdf, id=1018, 946.11769pt x 1011.33
 835pt>
 File: SigandJPhi8.pdf Graphic file (type pdf)
 
 <use SigandJPhi8.pdf>
 Package pdftex.def Info: SigandJPhi8.pdf used on input line 43.
 (pdftex.def)             Requested size: 446.26582pt x 477.0266pt.
- <ExExpB11.pdf, id=1049, 306.17285pt x 433.47046pt>
+ <ExExpB11.pdf, id=1021, 306.17285pt x 433.47046pt>
 File: ExExpB11.pdf Graphic file (type pdf)
 
 <use ExExpB11.pdf>
 Package pdftex.def Info: ExExpB11.pdf used on input line 55.
 (pdftex.def)             Requested size: 415.0861pt x 587.62651pt.
  [21] [22 <./SigandJPhi8.pdf>] [23] [24 <./ExExpB11.pdf>]
-<EzMz.pdf, id=1163, 1136.52608pt x 389.87558pt>
+<EzMz.pdf, id=1135, 1136.52608pt x 389.87558pt>
 File: EzMz.pdf Graphic file (type pdf)
  <use EzMz.pdf>
 Package pdftex.def Info: EzMz.pdf used on input line 72.
 (pdftex.def)             Requested size: 446.26582pt x 153.08598pt.
  [25]
-<MagPlots.pdf, id=1177, 1751.30286pt x 627.2464pt>
+<MagPlots.pdf, id=1149, 1751.30286pt x 627.2464pt>
 File: MagPlots.pdf Graphic file (type pdf)
  <use MagPlots.pdf>
 Package pdftex.def Info: MagPlots.pdf used on input line 85.
@@ -957,44 +953,44 @@ Chapter 3.
 
 
 ] [31] [32] [33]
-<SetupPicMatt.pdf, id=1884, 1422.20335pt x 867.24pt>
+<SetupPicMatt.pdf, id=1859, 1422.20335pt x 867.24pt>
 File: SetupPicMatt.pdf Graphic file (type pdf)
  <use SetupPicMatt.pdf>
 Package pdftex.def Info: SetupPicMatt.pdf used on input line 18.
 (pdftex.def)             Requested size: 446.26582pt x 272.12341pt.
 
 [34 <./SetupPicMatt.pdf>] [35] [36]
-<ScattAbsorptionF_zT_z.pdf, id=2022, 1352.10149pt x 875.27pt>
+<ScattAbsorptionF_zT_z.pdf, id=1997, 1352.10149pt x 875.27pt>
 File: ScattAbsorptionF_zT_z.pdf Graphic file (type pdf)
 
 <use ScattAbsorptionF_zT_z.pdf>
 Package pdftex.def Info: ScattAbsorptionF_zT_z.pdf used on input line 68.
 (pdftex.def)             Requested size: 469.75502pt x 304.09201pt.
  [37] [38 <./ScattAbsorptionF_zT_z.pdf>]
-<fig4.pdf, id=2079, 722.7pt x 542.025pt>
+<fig4.pdf, id=2054, 722.7pt x 542.025pt>
 File: fig4.pdf Graphic file (type pdf)
  <use fig4.pdf>
 Package pdftex.def Info: fig4.pdf used on input line 84.
 (pdftex.def)             Requested size: 469.75502pt x 352.32034pt.
  [39] [40 <./fig4.pdf>]
-<AllF.png, id=2107, 2432.1264pt x 764.1348pt>
+<AllF.png, id=2082, 2432.1264pt x 764.1348pt>
 File: AllF.png Graphic file (type png)
  <use AllF.png>
 Package pdftex.def Info: AllF.png used on input line 93.
 (pdftex.def)             Requested size: 469.75502pt x 147.58902pt.
  [41]
-<CPLComp.pdf, id=2117, 829.0975pt x 334.61913pt>
+<CPLComp.pdf, id=2092, 829.0975pt x 334.61913pt>
 File: CPLComp.pdf Graphic file (type pdf)
  <use CPLComp.pdf>
 Package pdftex.def Info: CPLComp.pdf used on input line 100.
 (pdftex.def)             Requested size: 469.75502pt x 189.58606pt.
  [42 <./AllF.png (PNG copy)>] [43 <./CPLComp.pdf>]
-<TNMT.pdf, id=2150, 2789.78271pt x 832.10875pt>
+<TNMT.pdf, id=2125, 2789.78271pt x 832.10875pt>
 File: TNMT.pdf Graphic file (type pdf)
  <use TNMT.pdf>
 Package pdftex.def Info: TNMT.pdf used on input line 120.
 (pdftex.def)             Requested size: 469.75502pt x 140.11073pt.
- [44 <./TNMT.pdf>] <Rotational_Torque_1071nm.pdf, id=2193, 828.84956pt x 720.40
+ [44 <./TNMT.pdf>] <Rotational_Torque_1071nm.pdf, id=2168, 828.84956pt x 720.40
 945pt>
 File: Rotational_Torque_1071nm.pdf Graphic file (type pdf)
 
@@ -1019,7 +1015,7 @@ ted-to.pdf springs_image11.eps>
 (epstopdf)             \includegraphics on input line 19.
 Package epstopdf Info: Output file is already uptodate.
 
-<springs_image11-eps-converted-to.pdf, id=2382, 1893.0725pt x 1146.2825pt>
+<springs_image11-eps-converted-to.pdf, id=2357, 1893.0725pt x 1146.2825pt>
 File: springs_image11-eps-converted-to.pdf Graphic file (type pdf)
 
 <use springs_image11-eps-converted-to.pdf>
@@ -1027,7 +1023,7 @@ Package pdftex.def Info: springs_image11-eps-converted-to.pdf used on input lin
 e 19.
 (pdftex.def)             Requested size: 469.75502pt x 284.43604pt.
  [53]
-<ScriptR.pdf, id=2394, 401.5pt x 200.75pt>
+<ScriptR.pdf, id=2369, 401.5pt x 200.75pt>
 File: ScriptR.pdf Graphic file (type pdf)
  <use ScriptR.pdf>
 Package pdftex.def Info: ScriptR.pdf used on input line 27.
@@ -1089,7 +1085,7 @@ File: ScriptR.pdf Graphic file (type pdf)
 Package pdftex.def Info: ScriptR.pdf used on input line 32.
 (pdftex.def)             Requested size: 401.49901pt x 200.7495pt.
  [55]
-<chirality_proof.pdf, id=2494, 614.295pt x 794.97pt>
+<chirality_proof.pdf, id=2468, 614.295pt x 794.97pt>
 File: chirality_proof.pdf Graphic file (type pdf)
  <use chirality_proof.pdf>
 Package pdftex.def Info: chirality_proof.pdf used on input line 43.
@@ -1215,7 +1211,7 @@ o.pdf>
 (epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
 
-<figure_439_wRoltLin13_wSEM-eps-converted-to.pdf, id=2588, 1520.68124pt x 1193.
+<figure_439_wRoltLin13_wSEM-eps-converted-to.pdf, id=2563, 1520.68124pt x 1193.
 45876pt>
 File: figure_439_wRoltLin13_wSEM-eps-converted-to.pdf Graphic file (type pdf)
  <use figure_439_wRoltLin13_wSEM-eps-converted-to.pdf>
@@ -1233,7 +1229,7 @@ verted-to.pdf exp-OR-CD_varyPol4.eps>
 (epstopdf)             \includegraphics on input line 115.
 Package epstopdf Info: Output file is already uptodate.
 
-<exp-OR-CD_varyPol4-eps-converted-to.pdf, id=2591, 1436.36626pt x 624.3325pt>
+<exp-OR-CD_varyPol4-eps-converted-to.pdf, id=2566, 1436.36626pt x 624.3325pt>
 File: exp-OR-CD_varyPol4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use exp-OR-CD_varyPol4-eps-converted-to.pdf>
@@ -1242,7 +1238,7 @@ line 115.
 (pdftex.def)             Requested size: 469.75502pt x 204.1822pt.
  [60] [61 <./figure_439_wRoltLin13_wSEM-eps-converted-to.pdf>] [62 <./exp-OR-CD
 _varyPol4-eps-converted-to.pdf>]
-[63] <fig-eigPols-eps-converted-to.pdf, id=2659, 1288.815pt x 477.785pt>
+[63] <fig-eigPols-eps-converted-to.pdf, id=2634, 1288.815pt x 477.785pt>
 File: fig-eigPols-eps-converted-to.pdf Graphic file (type pdf)
 
 <use fig-eigPols-eps-converted-to.pdf>
@@ -1256,7 +1252,7 @@ ar-iza-tion states and ob-serve polarization-
  []
 
 [64 <./fig-eigPols-eps-converted-to.pdf>] [65] [66]
-<ApertureRodDesign.pdf, id=2714, 614.295pt x 617.30624pt>
+<ApertureRodDesign.pdf, id=2689, 614.295pt x 617.30624pt>
 File: ApertureRodDesign.pdf Graphic file (type pdf)
 
 <use ApertureRodDesign.pdf>
@@ -1267,7 +1263,7 @@ Package pdftex.def Info: ApertureRodDesign.pdf used on input line 175.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [67] [68 <./ApertureRodDesign.pdf>]
-<ZEP520a_spincurve.png, id=2750, 837.1275pt x 650.43pt>
+<ZEP520a_spincurve.png, id=2725, 837.1275pt x 650.43pt>
 File: ZEP520a_spincurve.png Graphic file (type png)
 
 <use ZEP520a_spincurve.png>
@@ -1288,7 +1284,7 @@ LaTeX Warning: Command \r invalid in math mode on input line 220.
 
 LaTeX Warning: Command \r invalid in math mode on input line 220.
 
-<NanoApertureRecipeRods.pdf, id=2770, 941.90598pt x 642.4pt>
+<NanoApertureRecipeRods.pdf, id=2745, 941.90598pt x 642.4pt>
 File: NanoApertureRecipeRods.pdf Graphic file (type pdf)
 
 <use NanoApertureRecipeRods.pdf>
@@ -1306,7 +1302,7 @@ Package epstopdf Info: Source file: <bothSchem.eps>
 (epstopdf)             \includegraphics on input line 234.
 Package epstopdf Info: Output file is already uptodate.
 
-<bothSchem-eps-converted-to.pdf, id=3035, 1032.85875pt x 720.6925pt>
+<bothSchem-eps-converted-to.pdf, id=3010, 1032.85875pt x 720.6925pt>
 File: bothSchem-eps-converted-to.pdf Graphic file (type pdf)
 
 <use bothSchem-eps-converted-to.pdf>
@@ -1320,14 +1316,14 @@ Chapter 5.
 
 
 ] [77] [78] [79]
-<AnalyticalHolgramReconstruction.pdf, id=3264, 1423.79929pt x 721.3821pt>
+<AnalyticalHolgramReconstruction.pdf, id=3239, 1423.79929pt x 721.3821pt>
 File: AnalyticalHolgramReconstruction.pdf Graphic file (type pdf)
 
 <use AnalyticalHolgramReconstruction.pdf>
 Package pdftex.def Info: AnalyticalHolgramReconstruction.pdf used on input line
  80.
 (pdftex.def)             Requested size: 469.75502pt x 238.00179pt.
- [80 <./AnalyticalHolgramReconstruction.pdf>] [81] <psnr_good_eb2.pdf, id=4787,
+ [80 <./AnalyticalHolgramReconstruction.pdf>] [81] <psnr_good_eb2.pdf, id=4762,
  502.87775pt x 507.8975pt>
 File: psnr_good_eb2.pdf Graphic file (type pdf)
 
@@ -1335,14 +1331,14 @@ File: psnr_good_eb2.pdf Graphic file (type pdf)
 Package pdftex.def Info: psnr_good_eb2.pdf used on input line 113.
 (pdftex.def)             Requested size: 328.82707pt x 332.10568pt.
  [82 <./psnr_good_eb2.pdf>] [83]
-<ExpMethod.pdf, id=4826, 1398.1033pt x 673.51625pt>
+<ExpMethod.pdf, id=4801, 1398.1033pt x 673.51625pt>
 File: ExpMethod.pdf Graphic file (type pdf)
  <use ExpMethod.pdf>
 Package pdftex.def Info: ExpMethod.pdf used on input line 133.
 (pdftex.def)             Requested size: 469.75502pt x 226.28964pt.
 
 [84 <./ExpMethod.pdf>] [85]
-<Multiplexing2.pdf, id=5115, 2550.52875pt x 702.2054pt>
+<Multiplexing2.pdf, id=5090, 2550.52875pt x 702.2054pt>
 File: Multiplexing2.pdf Graphic file (type pdf)
 
 <use Multiplexing2.pdf>
@@ -1419,25 +1415,25 @@ pdfTeX warning (ext4): destination with the same identifier (name{cite.Moocarme
 2014}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.627 ...tem[Moocarme et~al., 2014a]{Moocarme2014}
+l.633 ...tem[Moocarme et~al., 2014a]{Moocarme2014}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.Moocarme14}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.633 \bibitem[Moocarme et~al., 2014b]{Moocarme14}
+l.639 \bibitem[Moocarme et~al., 2014b]{Moocarme14}
                                                   pdfTeX warning (ext4): destin
 ation with the same identifier (name{cite.Moocarme16}) has been already used, d
 uplicate ignored
 <to be read again> 
                    \relax 
-l.638 \bibitem[Moocarme et~al., 2017]{Moocarme16}
+l.644 \bibitem[Moocarme et~al., 2017]{Moocarme16}
                                                  pdfTeX warning (ext4): destina
 tion with the same identifier (name{cite.Moocarme15}) has been already used, du
 plicate ignored
 <to be read again> 
                    \relax 
-l.644 ...tem[Moocarme and Vuong, 2015]{Moocarme15}
+l.650 ...tem[Moocarme and Vuong, 2015]{Moocarme15}
                                                    [104] [105] [106] [107]
 Missing character: There is no Ì in font cmr12!
 Missing character: There is no  in font cmr12!
@@ -1460,8 +1456,8 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 300.
  ) 
 Here is how much of TeX's memory you used:
  20562 strings out of 493029
- 342611 string characters out of 6136235
- 594259 words of memory out of 5000000
+ 342666 string characters out of 6136235
+ 593380 words of memory out of 5000000
  23108 multiletter control sequences out of 15000+600000
  14512 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1487,10 +1483,10 @@ share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on Dissertation.pdf (136 pages, 38708537 bytes).
+Output written on Dissertation.pdf (136 pages, 38253734 bytes).
 PDF statistics:
- 6849 PDF objects out of 7423 (max. 8388607)
- 2851 compressed objects within 29 object streams
+ 6823 PDF objects out of 7423 (max. 8388607)
+ 2843 compressed objects within 29 object streams
  514 named destinations out of 1000 (max. 500000)
  737 words of extra memory for PDF output out of 10000 (max. 10000000)
 

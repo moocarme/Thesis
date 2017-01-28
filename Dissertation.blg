@@ -12,43 +12,43 @@ Warning--to sort, need author or key in BEAMER
 Warning--there's a number but no volume in Enoch:06
 You've used 189 entries,
             1935 wiz_defined-function locations,
-            1709 strings with 37253 characters,
-and the built_in function-call counts, 83699 in all, are:
-= -- 7923
-> -- 4123
-< -- 81
-+ -- 1456
-- -- 1437
-* -- 7844
-:= -- 14673
-add.period$ -- 579
+            1713 strings with 37438 characters,
+and the built_in function-call counts, 84011 in all, are:
+= -- 7949
+> -- 4149
+< -- 80
++ -- 1466
+- -- 1447
+* -- 7885
+:= -- 14721
+add.period$ -- 580
 call.type$ -- 189
-change.case$ -- 1653
+change.case$ -- 1658
 chr.to.int$ -- 184
 cite$ -- 192
-duplicate$ -- 2650
-empty$ -- 5563
-format.name$ -- 1705
-if$ -- 16139
+duplicate$ -- 2654
+empty$ -- 5582
+format.name$ -- 1715
+if$ -- 16201
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 199
-newline$ -- 957
+missing$ -- 200
+newline$ -- 958
 num.names$ -- 566
-pop$ -- 1281
+pop$ -- 1286
 preamble$ -- 2
-purify$ -- 1663
+purify$ -- 1668
 quote$ -- 0
-skip$ -- 1988
+skip$ -- 1989
 stack$ -- 0
-substring$ -- 6279
-swap$ -- 217
+substring$ -- 6312
+swap$ -- 218
 text.length$ -- 6
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 1104
 warning$ -- 2
-while$ -- 566
+while$ -- 567
 width$ -- 0
-write$ -- 2472
+write$ -- 2475
 (There were 2 warnings)
